@@ -1,0 +1,55 @@
+Anyone here still pursuing cs? Hi folks. Alum here and graduated about a few years back. Long story short, I’ve been thinking deeply about my future prospects and what I want to do and I’m just not satisfied with my current role and profession (UX). I’ve been learning to code on my own now for the past year and I love it - I actually get to see my ideas come to life vs. just designing it. I realized I’d love to do this as a career - but, I’m just not 100% sure of the future prospect of CS. Seems like new grad hiring and internships are slowing down…it seems tough. I say that because I thought of doing a post bacc in CS, but alas the options are slim. How are cs students feeling about everything? Are yall still seeing record enrollments in the cs or DS majors?
+
+EECS 95 We're still experiencing the lagging effects of Big Tech COVID over-hiring spree and subsequent buyer's remorse. It'll take a while to get worked out. Those of you in EECS should take advantage of access to the EE part of EECS and take some HW courses instead of doing CS-only. Don't say you haven't been warned.
+
+What do you mean buyers remorse? Who’s the buyer in this case - employers?
+
+EECS 95 Yeah pretty much. They bought too much and paid too much. But eventually things will level off. Just not sure when.
+
+CS '15, EECS '16 | Lecturer Yeah. I mean, for a while -- COVID in particular, but really at various times since the Great Recession bailouts –– there was just SO MUCH demand for CS jobs. The real problem is that you can almost always cut 5-10-15% of employees or work and still survive in a business. How many engineers complain about all the useless crap they do? (They're not entirely wrong...) And especially in the relatively short term you can cut costs and save money. Long term...much trickier but the stock market and CEO performance is biased towards shorter term rewards. Also, there is an aspect where I'm just really not sure how many 24-25 year olds really need to be earning more than a quarter million a year in compensation. But obviously I am not that motivated by the money LOL
+
+True. Also think it’s wise to not do mass layoffs. The stock market would implode. Unemployment would be rife.
+
+My 2 cents as a fellow alum - CS/EECS Bachelor's is STILL more valuable than most majors. A degree in Sociology, Ethnic Studies, Celtic Studies, etc. isn't worth much (speaking from experience). Even Architecure isn't worth much unless you do another 3 years of grad school. If tech completely tanks - I mean large companies going completely under - then at that point students would probably go back to what they majored in pre-2011 - MCB/IB with medical/dental/pharmacy school being the goal.
+
+Great point - it’s just a cycle. I remember finance being the hot profession until tech stepped in. But, we’ll see.
+
+A CS degree will still open more doors for you than just a liberal arts degree. The problem is if you want to actually want to pursue a job as a developer or with computers. And the jobs you get post graduation can steer you in that particular direction as a career. So trying to go back as a developer mid career may be difficult.
+
+CS '15, EECS '16 | Lecturer I don’t know man, the job market is rough but data 88C has as long a waitlist as ever. 61A is still huge. We are definitely much lower than an all time peak but we also massively re-engineered admissions. So this would have happened regardless. My understanding is that we are still among the largest batch of enrollments nationally.
+
+CS/DS ‘21 Even for mid level I’m feeling the pinch. Going on 4 years now with a FAANG. Ordinarily finding something else senior over $300K TC wouldn’t be a big deal, but even that sector is being squeezed a lot, as I’m unfortunately finding out.
+
+Same here. Wondering if this is reflective of short term economic cycle - interests rates low, etc. Pinging the Econ majors, lol. We’ve been in growth mode for 8+ years, it needs to slow down at some point I guess?
+
+CS '15, EECS '16 | Lecturer I had a quite long comment that got lost. But yes. I think there are MUCH larger forces out there than simply Gen Ai— though there’s definitely an effect there. Optimistically I do not see any world in where is this less software in the future than there is today, even if a lot of it involves AI. I don’t see a world in which is there decreasing value in understanding these concepts. At the same time, like the macro economy is just so weird and we have a lot of folks who want to FAFO when it comes to firing fed governors and what no. So, I’m also just pessimistic about the general future…..
+
+The thing is that growth was done recklessly and unsustainably. They made jobs to grow fast, and now are cutting weight. My hope is with the smaller companies
+
+I have a few years of software engineering experience and can’t land a basic $20/hr IT job with my Berkeley CS degree so good luck to all you new grads entering the brutal CS market.
+
+Can you talk more about your experience?
+
+Software engineering =/= IT
+
+This is fake and i doubt you went here
+
+You have experience post graduation and you can't find a job? When was that experience
+
+Wow, really? Sorry to hear. I am sending you good luck on your next role!
+
+Thanks! Trying to get a decent retail job right now.
+
+My world is crumbling around me
+
+Sorry you are feeling this way. I’m sure it feels that way but keep up your grind - you’re here for a reason! I have faith in you.
+
+CS is an important tool. So learning it is necessary
+
+Still pushing the “learn 2 code” fad? It’s not an important tool when everybody and their grandma knows how to code. I haven’t used my CS degree in years.
+
+Can you leetcode bud
+
+How’s enrollment going? Classes still packed to the brim? I see you’re a fresh. I also agree with your sentiment. Everything around us is only getting more distributed and digital - it’s important!
+
+Computer Science '29 Cs61a is packed. But the actual CS major doesn't have many students anymore thanks to its very low acceptance rate.

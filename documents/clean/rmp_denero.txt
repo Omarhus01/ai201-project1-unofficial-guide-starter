@@ -1,0 +1,563 @@
+Professor John DeNero Computer Science, UC Berkeley. Overall quality 4.3/5, 85% would take again, difficulty 3.6/5. Based on 280 ratings.
+
+[DATA8 · Jun 7th, 2026] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. Fair class, pretty easy, tests were not hard to do well on
+
+[DATA8 · Jun 6th, 2026] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Professor DeNero is very kind, tells jokes, and occasionally brings his dog to class. Utilize office hours, complete assignments early, and thoroughly study the past exams and course worksheets. If you stay on top of the material, you will do well
+
+[DATA8 · Jun 1st, 2026] Quality 2.0/5, Difficulty 3.0/5, Grade: B. DATA8 is the perfect example of a weeder class. The lectures were not helpful at all and were often filled with jargon. There were so many assignments during the week that it was difficult to understand all the concepts, as many of the labs and homeworks had the same problems/code. The assignments were also often unrelated to the exams.
+
+[CS61A · May 31st, 2026] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes. Clear lectures, fair exams.
+
+[DATA8 · May 23rd, 2026] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. If you don't have any background in DS or CS, Denero's Data 8 is the perfect introduction to it. His excitement for the subject makes material feel so much more interesting. His lectures can run a little slow at times but overall he is great at teaching. His exams aren't ivery difficult but value critical thinking skills more than others.
+
+[DATA8 · May 5th, 2026] Quality 3.0/5, Difficulty 4.0/5, Grade: Not sure yet. He is a nice professor but he makes his exams harder than necessary. Going to lecture is important and helps, but, at the end of the day, the class requires mastery of the material to be able to apply it well on the exam.
+
+[DATA8 · Apr 17th, 2026] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. such a joyous, lovely professor. really accessible outside of class (go to his dog office hours!), i wish i was a cs major to take more classes with him, i feel so much joy when i go to his lecture
+
+[DATA8 · Apr 8th, 2026] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. i absolutely love lectures wit prof. denero. he makes such an effort to answer questions in lecture despite there being so many students and he runs his office hours incredibly efficiently as well. he's so passionate about what he teaches and you can really feel it in his lectures. plus his dog is so cutie and he brings her sometimes!!
+
+[61A · Mar 28th, 2026] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Istg he sounds like Mark Rober but he's a pretty chill guy
+
+[61A · Mar 10th, 2026] Quality 5.0/5, Difficulty 1.0/5, Would take again: Yes, Grade: A. THE GOAT! THE GOOOAAAATTTT!!!! THE GOOOOOOOOOAAAAAAAAAATTTTTTTTT!!!!!!!!!
+
+[CS61A · Feb 28th, 2026] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Lectures are clear, although the material is hard.
+
+[CS61A · Jan 21st, 2026] Quality 3.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: C+. CS 61A has insane exam difficulty and a homework load for an intro CS class. Welcome to Berkeley : ). Homework/Projects are pretty hard, and there's a lot of them. Lectures are very fast-paced, so study beforehand! DeNero made lectures fun with jokes and a conversational tone, and he's kinda just known for being a cool guy (too many 67 jokes tho).
+
+[CS61A · Jan 8th, 2026] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Previous years tests are gonna seem doable but then you take the actual and John Denero steals your wallet and takes your kids.
+
+[CS61A · Dec 29th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. My biggest piece of advice is to take practice exams at the time that your exam will be. Exams for my semester were 7-9/10 PM, so teaching myself to be focused late at night was good. Watch the lecture videos, and do a lot of practice exams. Don't be discouraged by low midterm scores, clobber can come in clutch. Also turn in projects early for EC.
+
+[CS61A · Dec 27th, 2025] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. Grade bins are super harsh (15/300 pts between A and A-). I didn't attend a single lecture, screwed up on MT2 (scored 80%), forgot to do a dozen homeworks and labs, but somehow recovered my A- to A+ on the final.
+
+[CS61A · Dec 27th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Pretty well structured course and ample resources for further learning, though he did not really do any of the lectures which was disappointing. Best advice is to do the practice tests.
+
+[CS61A · Dec 25th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. CS61A is a hard course, and you really have to put in the work and time if you don't know CS (or lowkey even if you do). The way DeNero has interpreted and executed this introductory computer science is incredible- he has really created a course that, if desired, is the path for so much learning, epiphany points, and academic growth. Great prof.
+
+[CS61A · Dec 23rd, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. Professor DeNero is very passionate about CS61A, which shows through his lecture style. He led great lectures and helped explain things very clearly. The course definitely provides the necessary materials and resources to be successful despite being challenging, even if you don't have prior computer science knowledge.
+
+[CS61A · Dec 23rd, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Tests are challenging and I enjoyed them a lot.
+
+[61A · Dec 21st, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. This class was incredibly interesting and fun. All of the course staff are extremely helpful, it makes you really enjoy coding.
+
+[61A · Dec 20th, 2025] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A+. He is the goat. Did 6 7 in one of the lectures at the beginning of the course and it became a legendary highlight.
+
+[CS61A · Dec 17th, 2025] Quality 4.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: Not sure yet. Great professor, but the exams are rough. The class isn't curved so make sure to study and do a lot of past exam problems. Chances are you need to take this class for credit and not for fun, but Denero is a great professor to have.
+
+[CS61A · Dec 14th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Professor DeNero is a great lecturer and his passion for CS shows through his efforts in teaching. Midterms are difficult but fair as long as you put in effort and keep on top of your work, grading policy isn't too harsh either. I would recommend attending lectures in person as well as going to as many labs and discussions as possible!
+
+[CS61A · Dec 14th, 2025] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. The course was difficult if you did not have any prior understanding of core coding concepts. One issue, though. The exams were quite difficult, with DeNero stating that practice exams would help. The exams scale each semester differently, meaning if one semester did badly, the next semester would get a easier exam. Good guy tho!
+
+[61A · Dec 12th, 2025] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. I enjoyed the course content of 61A, and DeNero taught very well. I will say that his use of pensieve, an AI grading software developed by old students of his, is lowk corrupt (he pays thousands of extra dollars to the company over using gradescope) and detracts from learning (we don't learn to use github like we would with gradescope).
+
+[61A · Dec 4th, 2025] Quality 3.0/5, Difficulty 5.0/5.
+
+[61A · Sep 5th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. I went into this class with little interest in CS and came out loving it!! CS61A focuses on restructuring how you logically think. As such, I felt like I came out of this class smarter, both in coding and in general! Also, the class felt fair to me (I'm not cracked at CS). DeNero is also so nice and funny - he once played the banjo in class. :)
+
+[61A · Aug 18th, 2025] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A-.
+
+[61A · Jul 23rd, 2025] Quality 1.0/5, Difficulty 5.0/5. His exams are brutal and he says we should study using past exams, but they don't really help since he changes the material in a way where you have to apply different topics knowledge and it really doesn't have a pattern as he says the exams does in lecture.
+
+[61A · Jul 23rd, 2025] Quality 1.0/5, Difficulty 5.0/5. So difficult to take this class and he does not help kids who come from non-CS backgrounds.
+
+[DATAC88C · Jul 23rd, 2025] Quality 1.0/5, Difficulty 4.0/5. He is very difficult when it comes to learning the material as he teaches basic things, but then he gives very difficult questions.
+
+[61A · Jul 23rd, 2025] Quality 1.0/5, Difficulty 5.0/5. Only accommodates a certain number of students during office hours and only holds 1 hour office hours which does not help at all when multiple students have multiple questions. He also gets stumped on some questions and asked me to skip that question yet those type of questions show up on our exams.
+
+[61A · Jul 23rd, 2025] Quality 1.0/5, Difficulty 5.0/5. Horrible Professor he literally cannot teach, he just teaches random easy questions and never goes in detail to exam-style questions.
+
+[61A · Jul 17th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B. I struggled a lot in this class but I can say for sure that Denero was a very helpful and fun professor to listen to. He does a really good job at explaining the material and making it engaging! However, I can't stress enough to not fall behind in this class. Make sure to watch the videos, go to lecture, and attend office hours!
+
+[61A · Jul 15th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A.
+
+[Jul 14th, 2025] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A+.
+
+[61A · Jul 13th, 2025] Quality 1.0/5, Difficulty 5.0/5. Terrible professor, I would never take again. Does not care for students at all and does everything in his power to fail them.
+
+[61A · Jul 9th, 2025] Quality 1.0/5, Difficulty 4.0/5, Grade: A-. The class is harder in the spring, dont believe me? check btime for the averages in spring vs fall. Does not teach concepts well, be ready to pretty much teach yourself everything. The professor barely does anything--the TAs, academic tutors, academic interns pretty much run the whole class. Came into the class with no programming experience.
+
+[61A · Jun 21st, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. DeNero really cares and encourages lots of questions during lecture. Exams can be challenging but are fair; They are very similar to previous exams so if you do alot of practice tests it should be doable. Watching the videos and going to lecture provides really good practice for doing exam problems; HW and lab supplement material well.
+
+[CS61A · May 25th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Funny + engaging lectures; definitely cares about students, very encouraging of questions. People love this guy and for good reason. An overall really good class, projects are interesting. HWs and labs helped me more than going to lecture, but I still went for DeNero. Very fair exams, endless resources to help you succeed.
+
+[61A · May 23rd, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. CS 61A is amazing! I attended this class without any experience in programming (not recommended), so I had a hard time following the class. However, the professor provided a lot of resources for me to learn (lab, discussion, etc.), enabling me to learn recursion, trees, and many other programming techniques in 3 months! That was so cool, bro!
+
+[CS61A · May 18th, 2025] Quality 4.0/5, Difficulty 5.0/5, Grade: B. I went into this class with no coding experience (rookie mistake). This is a class where you are on your own and need to go to office hours. Prof. DeNero did teach some classes and his videos were helpful. The class is tailored to students with coding experience though. Before the final I had a C-, but after I pulled out with a B (with clobber)
+
+[DATAC88C · May 15th, 2025] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Posted videos of himself covering relevant course content before class. I never actually went to class (time conflict enrollment), but was able to take notes and follow along just based on these videos. Great course if you excel at teaching yourself through videos. Seemed very passionate.
+
+[61A · May 5th, 2025] Quality 1.0/5, Difficulty 5.0/5. This professor makes sure students don't enjoy coding and he just wants 61A (an intro class) to act as a weeder class and demotivate students from pursuing Computer Science.
+
+[61A · May 5th, 2025] Quality 1.0/5, Difficulty 5.0/5. Professor really should start just doing past paper questions in lecture with us to explain the problems otherwise just teaching syntax and an easy past paper problem will not help on exams.
+
+[61A · May 5th, 2025] Quality 1.0/5, Difficulty 5.0/5, Grade: A-. To be honest if I didn't have prior coding experience in Python I would have not got an A- in this class. Most of the 5.0 star reviews are from students who have had programming experience and even a lot of students have done USACO which explains why they enjoy the class not necessarily the professor's teaching style. Denero, make the class better!
+
+[61A · May 2nd, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Super organized class, so many resources available. Not nearly as hard as Reddit says as long as you stay on top of your work. Must take class at Cal.
+
+[DATAC88C · Apr 14th, 2025] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. we love denero!! but i could definitely tell that this semester of c88c was ramped up compared to the usual with ball. denero is so passionate about all the topics though, so i loved his lectures. honestly wish he taught the class entirely alone, because i enjoyed him much more than the other two lecturers. inspirational!
+
+[DATAC88C · Apr 11th, 2025] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: B. Really great teacher but not the best implementation of the course. This was John's first semester teaching C88C, and it definitely feels like 61A lite. I wish more thought had been put into the material, but it was still a good class. Coding is not my forte so a lot of it felt counterintuitive, but in the end, I can def say I'm a way better coder.
+
+[61A · Apr 10th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Ignore the review bombers, John DeNero is an absolutely legendary professor. Even though I was 1 point of an A which hurts, I can still say that he is one of the best professors I have ever had.
+
+[61A · Apr 9th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. I didn't want to do CS but switched after taking his course.
+
+[61A · Apr 8th, 2025] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B. The curriculum and lectures DeNero has set up will not only push your knowledge about computer programming to new heights. The lectures build essential foundational knowledge, and the curriculum ensures a deep understanding of core concepts. This means challenging exams but once you practice those enough, you'll be fine even with no experience.
+
+[61A · Apr 5th, 2025] Quality 1.0/5, Difficulty 5.0/5. There should be some more experienced professor who has some senior standing in the CS department as more experience = better learning for students.
+
+[61A · Apr 3rd, 2025] Quality 1.0/5, Difficulty 5.0/5. He is one of the professors who releases all of his past exams sine they are not similar in any way to the actual exams you get. Maybe just syntax wise its similar because the class is in Python but logic-wise it is quite different every year. If you have done computing olympiads you are fine though.
+
+[61A · Apr 1st, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. I took 61A with John DeNero, and he is one of the better professors I've had. The tests in his class were really consistent from year to year, so I always knew what to expect and could prepare well. He genuinely cared about making the material understandable and engaging, and his motivation made me want to push through even the tough stuff.
+
+[61A · Mar 22nd, 2025] Quality 1.0/5, Difficulty 5.0/5. His midterms are very difficult compared to what he talks about in class. Lets say in class he teaches you only something like a print statement. On the exam he will give you a for loop without explanation on how a for loop works.
+
+[61A · Mar 22nd, 2025] Quality 1.0/5, Difficulty 5.0/5. Worst professor for CS61A, he is just hyped up because he's a nice guy but as far as teaching goes please learn CS61A content before you take the class as Professor Denero is of no use.
+
+[61A · Mar 12th, 2025] Quality 1.0/5, Difficulty 4.0/5. For this class I really wish i could be curved at the end but turned out its not even curved even few points. Even though the lecture was pre-recorded, for some reason the professor is not as good as I thought. Be careful!
+
+[61A · Feb 12th, 2025] Quality 1.0/5, Difficulty 4.0/5. Professor Denero is nothing close to Harvard's CS50's professor so I don't know why many students at Berkeley compare him to this professor. If Denero even wants to step into CS50's league then he should probably teach in correspondence to the syllabus during lecture. Everyone stop going with the herd and giving this professor fake 5.0 stars.
+
+[DATAC88C · Feb 6th, 2025] Quality 5.0/5, Difficulty 1.0/5, Would take again: Yes, Grade: A-. Very easy, be on time with deadlines. People with coding experience, this is an easy class. If you don't have coding experience, just go to lecture and it's a straightforward class.
+
+[61A · Feb 4th, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: B+. DeNero is a great and clear lecturer. The class is formatted very well, and you'll do well as long as you're exposing yourself to the content in some way each week and staying on top of your work. While difficult, 61A was a great class to take.
+
+[CS61A · Jan 24th, 2025] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Got an A as a non-CS (albeit STEM) major without going to / watching any lecture, lab, OH etc. Just watch the videos to learn the content, and make sure you do EVERY problem on lab/homework. NEVER use chatgpt, it'll genuinely stop you from learning and will make you fail exams. Just do 3-4 past exams (by DeNero) to prepare and you'll be chilling.
+
+[61A · Jan 22nd, 2025] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. John D has a very unique persona, he teaches in a way that makes everything much simpler than it seems. Definitely be aware of mid term 2 and stay on track because he is a fast pace lecturer.
+
+[CS61A · Dec 29th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. This class is great! You will learn a ton from this class and John DeNero is a great lecturer. I would highly recommend watching the videos they provide before lecture so you won't be lost during lecture. Grind practice exams (I did 4-6 practice exams before every exam) and you should be fine. Stay on top of things and don't fall behind!
+
+[DATAC88C · Dec 28th, 2024] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A. Hard class for someone who hasn't coded before but if you put the effort in and watch all lectures / do hw / study far in advance you will be okay. DeNero is super chill, cares about students, and provides so many resources for understanding and test prep.
+
+[CS61A · Dec 23rd, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Denero is funny, always willing to answer questions, is quite enthusiastic, and has a nice accent! Love the material of this class, very fast paced. Get full and extra credit on all assignments to set yourself up for the best grade. WATCH THE VIDEOS/TB!! Practice midterms/finals to prepare for tests, similar patterns. Shoutout to awesome TAs/AIs!
+
+[61A · Dec 20th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. What a wonderful class! great experience overall, helpful course staff and well-structured content. Great lectures from denero
+
+[61A · Dec 17th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. I love Prof. Denero. His tests are a bit tricky but he covers content in depth. Best professor on campus.
+
+[CS8 · Dec 13th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Great prof for Data C88C. Only took stat20 so didn't know a lot about python but you can tell he cares about his students and is so sweet.
+
+[61A · Dec 12th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Chill dude. He's a mascot of the CS department and makes everything accessible to people who are interested in this course. He gives very fair tests and projects that prepare you for skill sets. I hope anyone interested take this class for PNP. There is a reason why he is 61A prof.
+
+[61A · Dec 8th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Amazing professor. Lucky to have as someone fresh into cs/ds. Very inspirational, you can sense he's actually passionate about the subject and about teaching. Really fun and clear lectures and grading schemes. Likes to give a final lecture on how we are going to become amazing people in life - which I adore.
+
+[61A · Oct 29th, 2024] Quality 2.0/5, Difficulty 4.0/5, Grade: Drop/Withdrawal.
+
+[61A · Oct 4th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes. good good good!
+
+[Sep 25th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Professor DeNero's CS61A is a challenging but rewarding course. The videos and resources are super helpful, and tools like Unstuckstudy can make studying more efficient. Stay on top of the work, and you'll learn a ton!
+
+[CS61A · Aug 13th, 2024] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A. Very organized class with tons of resources. Easy with coding knowledge. MT2 is the hardest. No curves. Hard topics include tree, recursion. Recent past exams are useful for test prep. Homework is easy. Projects are challenging. Watch the videos before class. A wide division in the class between ppl knows how to code vs. ppl first-time coding.
+
+[CS61A · Jun 22nd, 2024] Quality 4.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A+. Most concepts will not be in the lecture but in the videos. The pace can be fast for students without coding experiences. The course is easy as there are a lot of resources available for students. Good utilization of those can guarantee you to achieve good grades on exams. There was some extra credit if you turned in your work early.
+
+[61A · May 18th, 2024] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. As someone with no previous coding experience, this class was very hard to do well in. It is very easy to pass the class though if you finish all of the homeworks, labs, & projects. The exams are extremely hard, partial credit is nice though. Lecture format was not for me, had to watch videos before class. Study with other people & pray on exams
+
+[CS61A · May 16th, 2024] Quality 3.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B-. I struggled in this class, partly due to the format (videos to watch before each lecture that cover most of material while lecture is more for review). This style was difficult for me, although I know it works well for other people. That being said, I should've used OH and other supplemental materials more, which I would say is big for this course
+
+[CS61A · May 16th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Fantastic professor, it's very obvious how passionate he is about the subject- evidently cares about his students as well. Steep learning curve (for someone who's never coded before) but u just have to lock in and do all the homeworks/ask for help on labs. The tests are difficult but you learn so much from this class.
+
+[61A · May 4th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. Really funny guy, but you could tell especially from his last lecture that he cares a lot about this subject and its impacts on the world as a whole. He's a great teacher, but this class is honestly a lot more dependent on your own efforts regardless of how good the professor is.
+
+[CS61A · May 1st, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. a great professor. lectures are very clear and provides plenty examples in class time. very organized and funny too! one of the best professors in uc berkeley.
+
+[CS61A · Apr 12th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Best Introductory Course for CS ever
+
+[61A · Mar 20th, 2024] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Unbelievably talented and diligent professor who is great at teaching material. The EECS/CDSS department is lucky to have this legend.
+
+[CS61A · Jan 26th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Professor DeNero was amazing and he re-sparked my love for computer science. Not only does care and help students during labs and discussions, but he also is hilarious and his lectures are just a joy to attend. Shout out to the scheme art contest and the kpop dance group during the first lecture.
+
+[61A · Jan 25th, 2024] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A.
+
+[CS61A · Dec 30th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B. A bubbly personality to keep me and other students going in the TOUGH introductory curriculum of Computer science. Communicates his office hours availabilities, responds to emails fast, and can just walk up to him. After each class there usually is a line though.
+
+[61A · Dec 26th, 2023] Quality 1.0/5, Difficulty 5.0/5, Grade: Rather not say. The exams were too hard compared to homework, labs, and projects. Whatever you practice during the semester, expect it to be twice as hard on the exams. Scheme was the least enjoyable part of the course, ... and useless...
+
+[61A · Dec 23rd, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Denero is a unique professor to take in CS61A. Use clear examples that explain code and the strategies you can expect from solving complex tasks/problems. He welcomes any questions that arise mid-lecture lecture, allowing students to ask a variety of coding solutions or general questions. Great professor for any student (even freshmen/transfer)!
+
+[61A · Dec 21st, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Inspiring. The best. The greatest. GOAT
+
+[61A · Dec 20th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. really good at explaining concepts, encourages questions & won't make you feel stupid when you ask questions during lab/lecture, super nice and approachable outside of class too (like on ed or via email) the class grade bins are pretty difficult if you're aiming for an A/A+ but still somewhat doable if you get all the EC/hw/lab/discussion points
+
+[CS61A · Dec 14th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Amazing professor to introduce students to CS & Berkeley. 61A exams are tough but he's very accessible and there's a clear path to success if you put in the work. Lectures are great and he has a way of conveying key ideas in a simple way. Prof. DeNero made 61A amazing.
+
+[CS61A · Dec 6th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Genuinely one of the best professors at Berkeley. There is a reason he is regarded as the GOAT.
+
+[61A · Dec 5th, 2023] Quality 4.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: Not sure yet. Good professor who has a good sense of humor. 61a for me was just very hard, but grade bins are fair enough to pass (C) even if you basically bomb all your exams.
+
+[61A · Nov 26th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. great lectures but very hard exams
+
+[61A · Oct 31st, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Simply, the best professor in this world! His lectures are amazing, and the class is super interesting and well constructed.
+
+[61A · Oct 4th, 2023] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. He is amazing!
+
+[Sep 13th, 2023] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes. Prof DeNero's way of approaching the paradigm of Programming gave me a new perspective of thinking and approaching problems. Moreover the lecture series of 61A is very organised is the best introductory course for beginners in programming.
+
+[61A · Sep 7th, 2023] Quality 2.0/5, Difficulty 5.0/5, Grade: Rather not say.
+
+[61A · Sep 2nd, 2023] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes. Great guy, sometimes lectures got pretty complex and hard to follow but overall a great lecturer for a hard course.
+
+[61A · Aug 20th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. DeNero is a fantastic lecturer. 61A is challenging, but if you put in the effort, you can easily succeed.
+
+[61A · Aug 9th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Engaging lecturer, adds his sense of humor during lectures, generally responds to emails.
+
+[61A · Jul 4th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. I did not start as a CS/DS major and never thought I would become one, but DeNero made me love data science, so I took CS61A with him again. His lectures are so amazing that you don't want to miss any lecture even though attendance is not required. All the projects are super fun. You can tell they put a lot of effort into designing the curriculum.
+
+[CS61A · Jun 17th, 2023] Quality 4.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B. DeNero is so highly regarded for a reason. He makes CS fun and engaging and I highly recommend going to all the lectures. However, I do think that the concepts/problems he goes over in lecture are much simpler than the homeworks/tests. This class is really fast-paced, so make sure not to fall behind (especially weeks 4-5!!)
+
+[61A · May 15th, 2023] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A-. Professor DeNero definitely cares about his students and is easy to talk to in office hours. His lectures are very example-heavy, but he explains concepts clearly as well, and in 61A there are a lot of self-paced materials if you don't prefer his lecture style. 10/10 would hydra again (fall 2022 gang)
+
+[61A · May 14th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A.
+
+[61A · Apr 23rd, 2023] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. DeNero is a treat to behold! He made computer science very interesting and fun and inspired me to follow this major!
+
+[61A · Mar 18th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. CS61a is the best class I have ever taken. DeNero is an amazing professor that does the most for his students. This class is pretty difficult, but it teaches you SO much and your grade reflects your knowledge fairly well.
+
+[61A · Mar 15th, 2023] Quality 3.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B-. Honestly didn't like him and found his lectures super confusing and his voice very annoying. As someone completely new to programming I was lost the entire semester.
+
+[61A · Mar 14th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-.
+
+[CS61A · Mar 1st, 2023] Quality 3.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. He's okay at teaching. There are some topics that he could definitely explain way better. He was pretty condescending at office hours too. He got super mad whenever you asked for help on more than 1 problem/concept, saying it's better to ask another staff for help.
+
+[CS61A · Feb 4th, 2023] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: B+. Aaaaaaaaaanouncements! Professor DeNero was an amazing professor who helped fan my passion for programming.
+
+[61A · Jan 25th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A+. Such an amazing lecturer. Spongebobesque voice actually makes lectures interesting to listen to (even listening to him reading off slides is fun). Gives excellent and concise answers to questions. The course itself was very well designed in my opinion. Easy to get a perfect score on non-exam stuff and exams are kind of fun, like brain teasers.
+
+[DATA8 · Jan 19th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Weekly homeworks/labs were assigned but doable and actually relevant for exams, along w/the textbook. Provided many individual/class-wide opportunities for extra credit. One midterm and final, midterm felt more difficult than final. I had prior coding experience w/CS88 yet he introduced concepts very well for NPE students. Great professor overall!
+
+[DATA8 · Jan 6th, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. As someone unfamiliar with coding/python, Data8 is not too difficult. Watch lecture OR read the textbook; wasn't necessary to do both cuz it's the same info. In-person labs graded on participation/completion. Submit HW and projects early for 5 pts extra credit. Provided with reference sheet at midterm and final. You'll be fine if you do the work.
+
+[61A · Jan 5th, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. DeNero is an epic professor. He rides an electric unicycle, does OH w/ his dog, and is insanely skilled in Python/Scheme/SQL. He preps 30 min of content for 1hr lecture blocks intending to be stopped by questions that really help understanding. Test questions are hard but doing old exams to pattern match is very helpful.
+
+[61A · Jan 3rd, 2023] Quality 4.0/5, Difficulty 2.0/5, Grade: B. Very well spoken staff who are very eager to support students, but practice work just felt lazy. Honestly just stopped going after I got enough points for a B; dreadfully boring practice for actually very interesting content so I just lost interest.
+
+[61A · Jan 3rd, 2023] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Lecture is so super nice! The professor explain the concept in a clear approach. However, although the professor said 61A has NO CURVE at the beginning of the course, he did implement some sort of "curve" through a non-transparent clobber policy. Also, in Fall 2022, the grading bin for an A was raised from 285 to 290, which makes everything harder.
+
+[61A · Jan 1st, 2023] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Definitely go to lectures, as they're very engaging and useful. Overall a great class and intro to CS
+
+[CS61A · Jan 1st, 2023] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. John DeNeroooo!!! Announcements: Take this class if you can for CS61A. It is not the easiest class, but that's Berkeley. You will learn a lot if you put in the work. Attendance is not mandatory, and all of his lectures are posted online to YouTube.
+
+[DATA8 · Jan 1st, 2023] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: B+. I will be reviewing the class & not the professor as someone who never went to lecture after Week 1 lol. I am a Public Health major where coding is not my strength, but still earned a B+ even w/ a C on the midterm & F on the final (45% grade weight). I think it is easy to pass as long as you complete your HWs & project a day early for +5 EC points!
+
+[DATA8 · Dec 28th, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Data 8 was a sold introductory course in data science. Course content had mild overlap with AP Stats. Homework and lab are helpful; the textbook and past exams are public. Good logistics for 2000 people. As for DeNero, he's about as good as a lecturer gets, effectively explaining concepts and utilizing time, answering questions despite class size.
+
+[DATA8 · Dec 22nd, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Mainly working with Jupyter notebook in Python. Involves weekly lab and hw, 3 projects, midterm, & a final. The overall class is pretty good! If you're new to coding, then joining Data Scholars as well will help you - they provide reviews and assignment workshops. This "class" will be graded on submitting weekly worksheets, but they help you a lot!
+
+[CS61A · Dec 20th, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: B. Everyone (despite the major) should attend a DeNero lecture at least once. He's interactive and really wants his students to understand the material. His lecture style is equal parts information and demo based. The demos really do help with understanding the concepts, and there's a lot. His examples relate to what's tested. DeNero is a solid prof
+
+[Dec 16th, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. Well. I`m a pirate student who dropped CS because of math(hadnt the 4 points for the final grade) and yet, this guy named John DeNero was the best CS lecturer I found in world. So yes, he deserved any last drop of respect and please keep doing this good work.
+
+[DATA8 · Dec 12th, 2022] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: Not sure yet. Adored data8 as my intro to data science. Course staff are always helpful and kind. Labs are incredibly useful. Denero himself is a great lecturer. Super thorough and digestible. Would recommend everyone take data8. Super interesting class and applicable to everyday life. Homework & lab every week, ample EC, one midterm.
+
+[DATA8 · Dec 8th, 2022] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. Took AP CSA and AP Stats in high school, and honestly with that experience Data8 was a breeze. I barely went to lecture, and doing the labs and homework thoroughly was enough to understand the content. Practice exams are great ways to study for the tests. Ask for help if you need it! DeNero is awesome and the course staff is amazing.
+
+[61A · Dec 8th, 2022] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: C. DeNero is awesome. 61a was a HARD class, I'm PNPing it and going to P, but luckily just using it as a prerequisite for my DS minor. Lectures can move kinda fast, so pay attention, and if you miss anything make sure to get help. The course staff are super helpful. 61a is a fairly easy class to pass, but IMO hard to get a B or an A in.
+
+[61A · Dec 2nd, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. really, really good lecturer
+
+[CS61A · Dec 1st, 2022] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. This course is naturally hard but fun. Go to lecture and do several practice exams and you WILL learn a lot. I started this course with ZERO programming knowledge and ended up able to solve most medium-hard difficulty interview problems with ease. Lectures couldn't be any clearer and more engaging. Take it with him while he's still teaching it!
+
+[DATA8 · Nov 3rd, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. John DeNero manages a 1400+ student class well. His homework and labs prepare you for the exams. His lectures are entertaining and he is always open to questions.
+
+[DATA8 · Oct 28th, 2022] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: C-. DeNero is a CS god, and a great professor. just attend all the lectures as there is a lot of material covered in that hour of class. I did all the homework and projects but failed the midterm and final but still passed the class so the bare minimum is okay.
+
+[DATA8 · Oct 10th, 2022] Quality 4.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+.
+
+[61A · Oct 6th, 2022] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A. Professor Denero's 61A lectures are absolutely phenomenal. The clarity of thought, intuitive organization of ideas, instructive examples, and philosophy-based analogies are just incredible. I literally can't offer critique. Exams are ridiculously challenging (he admittedly struggles to solve some of them himself,) but that's more an EECS problem.
+
+[61A · Jun 6th, 2022] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B. Class is naturally hard, especially without coding experience, so you really gotta keep up with the content. He's really kind and generous; one of my favorite professors here!!!
+
+[DATA8 · May 31st, 2022] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A-. Took Data8 with Berkeley legend, Daddy DeNero, and I've ascended. He's a funny guy, HIGHLY RECOMMEND!
+
+[61A · May 30th, 2022] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A. This man changed my life. CS 61A has changed my life. Amazing class. Must take at Berkeley.
+
+[DATA8 · May 2nd, 2022] Quality 2.0/5, Difficulty 4.0/5, Grade: Not sure yet. Here's the thing. The class itself isn't too bad. The professor works hard to make lectures engaging and the assignments are good teaching tools. However, this class was the least understanding and most unaccommodating towards me when I was dealing with SEVERE mental health issues.
+
+[DATA8 · Apr 29th, 2022] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: Not sure yet. Very caring professor and gives great lectures!
+
+[Dec 21st, 2021] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. This class goes through a lot of material very quickly so you have to work hard to stay on top of things. But Denero's lectures are really amazing at helping you grasp the material and he's excellent at explaining tricky new concepts. But beware of the exams, since they are really quite hard and often much tougher than the rest of the course.
+
+[Dec 18th, 2021] Quality 3.0/5, Difficulty 4.0/5, Would take again: Yes. He's a really good professor and lecturer. I learned a lot in his class as someone who never did python my entire life. However, the exams are trolls. They don't reflect what the students learned in class and I feel like the exams are designed to let students lose points on very tiny details.
+
+[Dec 11th, 2021] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Recommended!!
+
+[CS61A · Oct 20th, 2021] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. I took 61A over the summer with grad students, but I watched the recordings of John Denero's lectures. This was the best class I've ever taken and the best professor I've ever seen. He explains things so well, it's like a constant feeling of an "aha" moment, but given to you by another person. I'm so happy he's at Berkeley.
+
+[CS61A · Jan 14th, 2021] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Great, foundational course. Great Professor to take it with. Make sure you do all the extra credit on projects and start studying for exams EARLY cause boy are they hard.
+
+[CS61A · Jan 4th, 2021] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. 61A was a fun class but definitely not for people who have never touched cs before. Grading was fair, last project was a little time-consuming (consider finding a partner) and do a lot of past exams to prep for the midterms/final. There will be around 10 points of ec, but messing up any exam is pretty much unrecoverable for an A.
+
+[Dec 23rd, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. He is so nice! Made CS61A my favorite class this sem. Lectures were pretty good, but you should spend more time on discussions/labs/hw/past exams as they are more relevant to exam content. Enjoyed the AMAs. Exams are pretty difficult relative to lectures/hw but it is very possible to get in the A range by grinding past exams and extra credit.
+
+[Dec 22nd, 2020] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A+. John is a passionate professor who gives great lectures. I love him.
+
+[Dec 21st, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. His lectures are engaging and have 0 fluff. Some are almost 2 hours, some are 20 minutes, it depends on the material. The projects, lab and homework assignments are cool and there's plenty of extra credit opportunities. The staff is helpful and everything was managed smoothly. Only con is that exams are more like "puzzles" than tests.
+
+[61A · Dec 18th, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Professor Denero's lectures are very interesting and are frequently re-recorded but source older lectures too. Almost every assignment had extra (optional) practice problems and all of the projects have some extra credit opportunities. I never attended live lectures but they would've helped a lot. Optional contests are fun too, lots of opportunity
+
+[61A · Dec 18th, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. Took this class asynchronously, Professor Denero posts his lectures on YouTube in playlists and they are so captivating and fun. Lectures are great to help with homework and the TA's usually post hint videos. Denero has lots of experience and knowledge and it was a pleasure to take his class
+
+[61A · Dec 18th, 2020] Quality 1.0/5, Difficulty 4.0/5, Would take again: No, Grade: B. Overrated. HW/projects are too easy/useless. Exams are your real grade, but mostly test riddle solving, not programming. They're confusing to read/poorly written. I scored much higher on past exams not written by Denero, when practicing for his exams. People that defend "Daddy" are brainwashed, and sound like cult members. Avoid to save GPA.
+
+[Dec 16th, 2020] Quality 1.0/5, Difficulty 5.0/5, Would take again: No. I dont why people like him. His classes are boring and all he provided are pre-recorded lectures from prior semesters. The system and organization of this class online is so weird and tough. The class requires a lot more time commitment to its assignments and projects. After taking this class, I dont really want to double CS/DS major anymore.
+
+[Dec 7th, 2020] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: Not sure yet. DeNero is hilarious and a great professor. Lectures and expectations are super clear. It can be tough to get help (7-hr OH queues haha) but reach out to your peers, who can probably walk you through it! Exams are super tough and projects are long, but hw and lab is really helpful and fair.
+
+[Nov 9th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Most of the low reviews in this site for CS61A are clearly by people who didn't study. There's lots of work, but it's purposeful. The exams are hard, but doable (if you study). This is not just another "introductory course", it's a well taught class which prepares for real CS, rather than just teaching to be a code monkey.
+
+[Oct 31st, 2020] Quality 3.0/5, Difficulty 4.0/5, Would take again: Yes. The way he goes over things in lectures is a bit robotic. His exams are very hard.
+
+[CS61A · Oct 5th, 2020] Quality 3.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. People with little or no experience generally struggle and write low reviews, while people with lots of experience write high reviews for him/do well. As someone who took only took AP CS, I found the class pretty difficult. He's funny but the lectures only really teach syntax. So for noobs like me, you'll need to spend A LOT of time practicing.
+
+[Oct 4th, 2020] Quality 5.0/5, Difficulty 1.0/5, Would take again: Yes, Grade: A+. Denero is hands down one of the best professors I've ever had. Yes, he pre-records his lectures but that is actually a good thing. It gives students the flexibility of being able to visit the curriculum on their own time, and then come to lecture ready to ask questions. His projects, labs, HWs were all great and his MT exam & policy was awesome.
+
+[Oct 3rd, 2020] Quality 1.0/5, Difficulty 5.0/5, Would take again: No. I'm in cs61a and the class is super hard. The TAs are nice but I DeNero's projects are really hard and there's a ton of busywork. Not sure if I want to study anything cs related after 61a.
+
+[Sep 13th, 2020] Quality 2.0/5, Difficulty 5.0/5, Would take again: No. In his class for fall 2020 and his class is mad hard . A lot of work and he tries to weed us out. RIP CS/DS/EECS majors.
+
+[Sep 12th, 2020] Quality 1.0/5, Difficulty 5.0/5, Would take again: No, Grade: A-. Honestly DeNero is overrated. I don't understand why people like him because all he does is provide pre-recorded videos of himself from 2013 and then he expects you to learn. CS61A is tough for no reason because of him
+
+[Aug 24th, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. Probably my favorite CS class
+
+[61A · Aug 18th, 2020] Quality 1.0/5, Difficulty 3.0/5, Would take again: No, Grade: Not sure yet. Stop hyping this man to be the best professor of all time. He was pretty dry in lecture and the class overall is boring/uninteresting. The exams try to trip you up and is not an indicator of actual retention of computer science as this is still an "introductory" course. People like him because he likes to pretend that CS is E for everyone.
+
+[Aug 15th, 2020] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A+. Summer session 61A was all his recorded lectures on YouTube from 3+ years ago(all 61A semesters are like this). This is an IQ test weeder class with stupid exams but he is a world class professor which makes up for the class
+
+[CS61A · Jul 18th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Amazing lectures. Super clear and engaging. Tests felts like puzzles which was hard under stress. Content takes time to absorb so make sure you spend time playing with it! Grind out practice tests to do well.
+
+[CS61A · Jun 10th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. At the moment that I'm writing this, this man's rating is a 4.7. That is criminally low: DeNero is an all-time professor who should be a straight 5.
+
+[61A · May 29th, 2020] Quality 5.0/5, Difficulty 1.0/5, Would take again: Yes, Grade: A+. John DeNero made my CS 61A a lot more enjoyable. He gives amazing lectures and the tests are not hard as long as you study enough.
+
+[CS61A · May 28th, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. Professor DeNero did a fantastic job with his class, especially given the transition to online learning during the Covid-19 pandemic. He is a great teacher who cares about how you're doing in his class and has many options to help struggling students. Also, his CS61A class is very useful and a great introduction to computer programming.
+
+[CS61A · May 23rd, 2020] Quality 2.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B. I was very excited for this class however I was very disappointed. Lectures, labs, homeworks and even projects were way easier than midterms/final. There was a gap in difficulty which I didnt know how to cover. These tests were ridiculously hard. Staff was super helpful. He is very funny and his lectures are great (but not enough).
+
+[61A · May 19th, 2020] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes. No matter how many times computer science made me want to cry (luckily I'm not majoring in it) I could never blame that on DeNero. He did his very best to help me learn, and although I felt like I was drowning at some points and struggling to keep up, I really feel proud of myself for getting through it now. It was worth it, so thank you.
+
+[CS61A · May 10th, 2020] Quality 3.0/5, Difficulty 5.0/5, Would take again: No, Grade: A. DeNero is super charismatic and knows what he is talking about. Having said that, the course is really fast paced and challenging. The Professor is really insensitive about designing exams and makes them unnecessarily tricky, hard and thus stressful no matter how many practice exams you do. It seems that he doesn't want you to do well, after all.
+
+[61A · May 2nd, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A+. Daddy DeNero is the best
+
+[CS61A · Apr 24th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes. I love you so much but I hate your exams. Skip class? You won't pass.
+
+[CS61A · Apr 7th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes. He cares so much about his students. Especially during the coronavirus crisis, he is so accommodating and he really seems to understand how to reach his students. His lectures are amazing and he prerecords all of them and they are accessible throughout the entire course. The homework, labs, and projects are never busy work and are really effective.
+
+[CS61A · Mar 2nd, 2020] Quality 3.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Took CS61A is fall 2019 with Prof. DeNero. Projects and homework were fair and fun to complete. Videos were provided by the TAs before exams which helped me prepare along with several practice exams from previous semesters. That being said, midterms were challenging.
+
+[CS61A · Jan 21st, 2020] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. My favorite class of the semester. 61A's staff has mastered the art of handling so many students (>2000!). There was plenty of additional help if you felt you needed it. Highly recommend getting a head start on hw, labs, and projects. It can be frustrating, but it feels worthwhile. DeNero obviously loves what he's doing.
+
+[CS61A · Jan 10th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Prof. DeNero has a cult following for a reason. This class is an essential Berkeley experience. Tests are very difficult, but I feel like I really learned something. Plenty of resources are available for help if you need it (lots of office hours, course materials posted, review sessions.) Past exams are easily accessible and fairly consistent.
+
+[61A · Jan 7th, 2020] Quality 1.0/5, Difficulty 5.0/5, Would take again: No, Grade: B. This guy cares more about grade distribution than his students' success. Easy projects and homework, but extremely unnecessary tricky exams, which make no sense for first CS class for many students. Boring lectures, which never get updated. The only good thing about this class is the Piazza community. Regret taking this class. Such a nightmare!!!! Skip class? You won't pass.
+
+[CS61A · Jan 6th, 2020] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. He totally lives up to the hype. I should mention, though, that you'll have a significant leg up in this class if you come in with prior Python experience (and you'll need that leg up)--either through self studying or through another 2-unit class called CS88, which you can take the semester before 61A.
+
+[CS61A · Jan 4th, 2020] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Great lecturer. Cares about his students, even though there's 2000 of us. Insanely difficult exams. DeNero has been able to scale up the class to the incredibly high demand using an army of incredibly competent course staff. 10/10 best intro CS class in the world.
+
+[CS61A · Dec 26th, 2019] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. DeNero is the GOAT. I had no prior programming experience but his lectures made me always want to come, and his tests and homework made me want to study. You can't say you went to Berkeley if you never took 61A with DeNero.
+
+[CS61A · Dec 25th, 2019] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. A Berkeley CS legend. CS61A is probably the most well structured class in Berkeley and makes you fall in love with the field of Computer Science even though the workload and tests make you want to cry.
+
+[CS61A · May 4th, 2019] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. Denero's a great professor. Crystal-clear lectures and clearly-outlined grading policies. Exams are definitely tricky, but they're fair and consistent from semester to semester.
+
+[CS61A · Jan 15th, 2019] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B-. DeNero was able to teach me, someone with no prior experience in CS besides Data 8, the basics of CS very well. He is a hard test maker, but if you study you will be fine because the overall course grading makes up for the hard tests. Pro-tip: Do homework and projects in Office Hours. The course webpage makes it easy to stay on top of work.
+
+[CS61A · Jan 7th, 2019] Quality 3.0/5, Difficulty 5.0/5, Would take again: No. DeNero is a decent lecturer and overall caring and approachable person. Lecture is mostly to introduce concepts with a few naive examples. Homework, lab, and project questions are exponentially harder than class examples. But tests are exponentially harder than those--he's an insanely hard test writer! Too hard for an intro CS class, in my opinion.
+
+[CS61A · Dec 27th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A+. The lectures are easy to understand. The homework and projects are designed to be difficult but give you great practice. There are extra questions that are usually much harder than the regular homework, and I would highly suggest you at least attempt them. The tests are difficult, but extremely consistent, so doing practice tests helps immensely.
+
+[CS61A · Dec 26th, 2018] Quality 4.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. For a beginner in CS, this course is way too hard. The homework and projects are extremely interesting, but test is way beyond the standard difficulty for beginner's CS course
+
+[61A · Dec 18th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. One of the best professors here at Berkeley. A must take!
+
+[61A · Dec 11th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: Not sure yet. John is one of the best professors here at Berkeley. Everyone knows he's an accomplished computer scientist (he created Google Translate) but he remains very humble and makes CS understandable for all. If you want to learn a lot take DeNero. The class is challenging and moves extremely fast but the resources are there to help you succeed!
+
+[CS61A · Dec 2nd, 2018] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. Great professor, his passion for CS really shone in 61A. Exams can be tricky at times but with practice(especially on past exams) you will get better at solving his exams problems. He is also very helpful during office hours, and he makes sure there are a lot of resources available for you to succeed.
+
+[CS61A · Nov 10th, 2018] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. This is a great Prof I met during my university life. He is talent, caring and inspirational. I love computer science since I attended his class.
+
+[61A · Oct 25th, 2018] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A+. His lectures are great, and I actually looked forward to the homework and projects.
+
+[CS61A · May 18th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Awesome professor. His lectures were clear, and he's really good at answering our questions. Gave us life advice at the end of the semester too. Should be easy to get full credit on hw/projects if you start early and make use of piazza and OH. Tests can be tricky, so make sure to do a bunch of practice exams. Grading is pretty fair.
+
+[CS61A · May 16th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes. Loved taking CS61A. I didn't attend lectures, just watched the online lectures. The class is pretty fair and they give opportunities for EC - definitely do the EC! I learned a lot and there is lots of support. At the time of writing final grades haven't been given out, but I'm an A-/A.
+
+[CS61A · May 15th, 2018] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Daddy. Very clear lectures and very helpful when stuck. the core course material does not really prepare you for the tests on their own though so significant practice and work outside the hw and projects are needed but otherwise very good course taught by a very good teacher.
+
+[DATA8 · Jan 16th, 2018] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. I took Data 8 with Denero and Wagner Fall 2017 and it is so clear how much effort they put into crafting a really interesting and well-designed class. Denero is charismatic and moves at a good pace in his lectures. He mostly taught the coding portion of the material and was very approachable when I asked questions in office hours.
+
+[CS61A · Dec 29th, 2017] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. John DeNero is a legend for a reason. The man truly has a gift for lecturing, explaining concepts very clearly and in an amusing fashion. The content of 61A is very interesting, and the assignments are designed to get you thinking about computer science in a new way. Loved the class, loved the professor.
+
+[DATA8 · Dec 24th, 2017] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Prof. DeNero is witty, knowledgable, and patient. He and the GSIs construct an inclusive, helpful environment for all students. There is no shortage of help (Piazza, office hours, lab), though you may have to wait during busy times, like right before a project is due. Try to take coding problems in stride. You learn best through trial and error!
+
+[CS61A · Dec 17th, 2017] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes. Lots of resources to help you succeed. Clearly outlines the material and lectures are easy to follow. Useful if you have prior programming experience. The midterms and final are fair. They mainly test problem solving abilities. Denero is extremely friendly and willing to help. Some of the projects are a bit awful. HW and labs are generally easy.
+
+[CS61A · Oct 12th, 2017] Quality 2.0/5, Difficulty 4.0/5, Would take again: No, Grade: B+. He's nice but the exams are really hard. The first midterm is fine but the second one and final are so hard. Also the curve is pretty tough
+
+[CS61A · May 28th, 2017] Quality 3.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Lectures are pretty good but tests are hard, especially the second midterm and final.
+
+[DATA8 · May 21st, 2017] Quality 4.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. The myth, the man, and the legend. This guy somehow manages to simulate a semi-personal connection with each and every student in a class with several hundred students. The course (for the most part) was very well run, and I definitely enjoyed it. He and Adhikari both did an amazing job trying to make the material accessible for everyone.
+
+[61A · May 11th, 2017] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. He's overall a really good teacher. He explains everything relatively well considering it's a pretty intense programming course. The projects weren't too bad as they were just based off completion. Just be prepared for really difficult exams; it's what wrecked my grade in the end.
+
+[CS8 · May 10th, 2017] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Professor DeNero is the man, I have never had a professor this good.
+
+[CS61A · May 6th, 2017] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. Take his class. I mean it. Denero changed my view of computer science forever. He matches his ridiculous intellect with kindness and understanding towards his students, and to top it off he genuinely wants everyone in his class to succeed. Put in the work and you'll do just fine.
+
+[61A · Apr 28th, 2017] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes. Very nice professor.
+
+[CS61A · Mar 17th, 2017] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. DeNero is the most enthusiastic and definitely the best professor I've ever known. It's very obvious he has put more efforts into teaching this course than most other professors, and he did a great job in getting his students excited about computer science.
+
+[CS61A · Jan 27th, 2017] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes. His lectures are so great that the online textbook is unnecessary. However, get ready to work plenty if you want to do well. If you can complete all homework and projects on time, you can get 100% on those assignments and even some extra credit, so the only thing in the way are the exams. Be sure to understand the concepts and you'll do fine.
+
+[CS61A · Jan 13th, 2017] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. If you can take this class, do it
+
+[CS61B · Jan 9th, 2017] Quality 4.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. Overall I liked him but the tests and projects are annoying. They are fill in the blank instead of coding something from scratch. His lectures are good but sometimes I feel like he goes really in depth in order to distinguish people on tests instead of teaching more useful material. Look at last problem on MT2 F2016. Study more than hw and labs.
+
+[CS61A · Dec 28th, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. Great lecturer, funny, informative, his style makes everyone laugh. Might be tricky to catch in office hours; his office gets pretty crowded.
+
+[CS61A · Dec 26th, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A-. This class affirmed my decision to pursue CS! I loved DeNero's lectures and enjoyed doing the homeworks and projects. The class was an interesting experience, though I'll warn that it is fast-paced.
+
+[CS61A · Dec 25th, 2016] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A-. One of the best teachers I've ever had - a great lecturer, accessible via office hours or email, well-paced syllabus, and funny to boot. Would highly recommend taking a class with him!
+
+[CS61A · Dec 23rd, 2016] Quality 4.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: B+. Know that CS61A will likely become your 1st priority unless taken P/NP. It's time-consuming & just plain hard for people without programming experience (expect 20+ hrs/wk), but doable and very interesting, and his lectures and course design are what make it work. So don't take it with another hard and unrelated class. Like an MCB upperdiv. haha fml
+
+[CS61A · Dec 21st, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. It is possible to do well in this class. Professor DeNero is a great teacher and he provides the resources to succeed in his class, you just have to work hard and study. It is pretty helpful to have prior programming experience, but if you put in the work, you don't have to. Great class and great professor.
+
+[CS61A · Dec 19th, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: A. The class is very well-organized, but it covers a lot of content (prior programming experience is almost necessary). Also, exams are require you to think outside the box and test things that you may not have thought of. Professor DeNero is very knowledgeable, explains difficult concepts well, is an engaging lecturer, and makes a large class work.
+
+[61A · Dec 17th, 2016] Quality 5.0/5, Difficulty 5.0/5, Would take again: Yes, Grade: A-. Not as good as hug but still a great CS prof
+
+[CS61A · Nov 23rd, 2016] Quality 5.0/5, Difficulty 2.0/5, Would take again: Yes, Grade: A. Professor DeNero is incredibly friendly, accessible and inspirational. Even though his course will make you work reasonably hard, if you put in the time and effort, you can get a high score on his exams.
+
+[CS61A · Oct 31st, 2016] Quality 5.0/5, Difficulty 3.0/5, Would take again: Yes, Grade: A. John DeNero is a great lecturer and teacher. He explains things clearly, with the occasional joke. The midterms are hard.
+
+[61A · Oct 26th, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: C+. Such an amazing professor, I love his class even though it's pretty challenging for me. Provides a ton of support and the projects are super fun! He's also a funny guy and gis lectures aren't boring at all, so that's a plus!
+
+[61A · Aug 24th, 2016] Quality 5.0/5, Difficulty 4.0/5, Would take again: Yes, Grade: B+. Definitely the best teacher I've had at Cal. He was organized, entertaining, and obviously cares a lot about his students. His class was a blast and made me want to be a CS major.
+
+[CS61A · Feb 4th, 2016] Quality 4.5/5, Difficulty 3.0/5, Grade: A. Great professor. The class isn't an easy A and the exams do require a great deal of studying, but you learn a lot from the course.
+
+[61A · Jan 18th, 2016] Quality 5.0/5, Difficulty 4.0/5. He's great at making the class interesting and really trying to spark the interests of his students. He also genuinely cares about each individual student despite having more than 1000 to deal with. His lectures are informative as well as funny, and he doesn't overload you with work. It's a hard class, but he tries to get you the support you need.
+
+[CS61A · Jan 14th, 2016] Quality 5.0/5, Difficulty 1.0/5, Grade: A+. He is AMAZING! Everything you could want in a professor :) Him and his army of TAs really made this 1400-person class work.
+
+[CS61A · Jan 2nd, 2016] Quality 4.0/5, Difficulty 4.0/5, Grade: A-. Simply Amazing. Funny. Clear. Tall. The class starts out very easy but picks up waaay too fast and the second midterm and final killed me.
+
+[CS61A · Dec 24th, 2015] Quality 4.5/5, Difficulty 3.0/5, Grade: A. Amazing professor, cannot be easy to teach a class of this size, and you won't get any face time with Denero. Nonetheless, you come out of this class, changed.
+
+[CS61A · Dec 18th, 2015] Quality 5.0/5, Difficulty 4.0/5. Legend. Immortal. Amazing. God. Life-changer. Even if you end up failing the class, you won't regret taking CS61A. Why? Because of DeNero. He's a gem. Seeing him outside is like seeing a celebrity. I hope he keeps on teaching CS61A.
+
+[CS61A · Dec 11th, 2015] Quality 3.0/5, Difficulty 5.0/5, Grade: Not sure yet. The tests are hard.
+
+[CS61A · Nov 29th, 2015] Quality 3.5/5, Difficulty 4.0/5. DeNero is a great professor! He makes a conscious effort to make sure students are succeeding in his classes. He is super willing to help and will help student with trivial problems like internet connection issues. He makes what would be an impossible course simply difficult. Would recommend 61A to students from all majors, definitely memorable!
+
+[CS61A · Oct 28th, 2015] Quality 4.5/5, Difficulty 4.0/5. One of the best cs professors you could take at Berkeley. I don't enjoy programming, but his enthusiasm for the subject makes this class fun and interesting. He's also understanding of the fact that this is a hard class with a heavy course load. He doesn't like seeing students do poorly and he'll help you if you ask for it.
+
+[CS61A · Oct 15th, 2015] Quality 4.5/5, Difficulty 3.0/5, Grade: B. DeNero is to this day the most inspirational and wonderful lecturer whose class I have had the privilege of experiencing. He is so understanding and helpful. 10/10 recommend any class with him.
+
+[CS61A · Oct 7th, 2015] Quality 5.0/5, Difficulty 3.0/5. DeNero really works for his students, and is one of the best lecturers I've ever seen.
+
+[CS61A · Oct 7th, 2015] Quality 5.0/5, Difficulty 2.0/5. Awesome class, nicely structured, and very organized. He's got an amazing sense of humor and you can tell he really cares about the subject. Compsci is not an easy topic (Berkeley CS is a hard dose of reality for a lot of normally good students) but you will walk away learning something.
+
+[CS61A · Oct 4th, 2015] Quality 5.0/5, Difficulty 4.0/5, Grade: Not sure yet. DeNero is one of the most amazing professors ever! He's really good at explaining difficult material. I came in to this class with no previous coding experience and since the class was very hard I constantly thought about dropping, but I stayed because of DeNero. He and the course staff work really hard to provide resources for struggling students.
+
+[CS61A · Sep 20th, 2015] Quality 5.0/5, Difficulty 4.0/5. Denero is an absolute gem. This is my first time coding and I am having so much fun with it because his lectures are amazing and the assignments are incredibly well-crafted. He is the best teacher I have ever had
+
+[CS61A · Aug 19th, 2015] Quality 5.0/5, Difficulty 3.0/5, Grade: A. Heaven on a Professor.
+
+[CS61A · Jun 16th, 2015] Quality 4.5/5, Difficulty 3.0/5, Grade: A. Best professor for intro CS. Could be the best professor I've ever had. I became a TA for this class in large part due to him personally. If you're here you probably are already planning to take this class, but if you're not sure yet: take this class. One note: go to his office hours. For a 1000 student class, they're somehow always empty.
+
+[CS61A · May 18th, 2015] Quality 5.0/5, Difficulty 3.0/5. CS61A was an incredible class. There were over 900 people enrolled, but I had more opportunities for personal assistance than in any of my smaller classes. John is an awesome professor - fun, interesting, and helpful. His online videos are very clear and precise (more so than any professor's physical lectures). Definitely would recommend.
+
+[CS61A · May 2nd, 2015] Quality 5.0/5, Difficulty 3.0/5. Best person you could ask for your first CS class at Cal. Expect to spend a lot of time on projects and homework and studying for tests, but GO TO OFFICE HOURS. The TAs are very helpful, remember that you're not alone on this. I've gone to every lecture, you can watch the videos online but live lectures are great. Hilarious and answers questions
+
+[CS61A · May 1st, 2015] Quality 5.0/5, Difficulty 4.0/5, Grade: A+. Bruh this dude more fire than my mixtape.
+
+[CS61A · May 1st, 2015] Quality 5.0/5, Difficulty 3.0/5. There are 3 times in life I felt so bad about losing someone. The first time is when my ex-girlfriend left me and went to another city. Second is when I stepped into the airport after visiting a good friend who I couldn't see for years . Third time is on Prof. John DeNero's last lecture.
+
+[CS61A · Apr 4th, 2015] Quality 5.0/5, Difficulty 1.0/5, Grade: A-. John really cares about his students. Teaching the biggest class on campus, he really makes an effort to make sure each individual gets the attention they need. He is a great lecturer and he tells you NOT to come to lecture and to just watch the webcasts. Amazing. Perfect guy for students' first CS prof when they come to Berkeley.
+
+[CS61A · Mar 12th, 2015] Quality 5.0/5, Difficulty 3.0/5, Grade: A+. I've never rated a professor before, but, like Yeezus, this man is a god.
+
+[CS61A · Feb 15th, 2015] Quality 5.0/5, Difficulty 5.0/5. Simply amazing.
+
+[CS61A · Feb 11th, 2015] Quality 5.0/5, Difficulty 1.0/5. OMG He is my fav prof. I believe everyone who has taken cs61a with him would LOVE computer science.
+
+[CS61A · Jan 21st, 2015] Quality 5.0/5, Difficulty 3.0/5, Grade: A. Great professor. Great class. Take it.
+
+[CS61A · Jan 2nd, 2015] Quality 4.0/5, Difficulty 4.0/5. Denero is an amazing professor. His online video lectures are far better than live lecture. However, learning in this class really comes from surviving the constant inundation of homework, quizzes and projects. Doing previous exams are essential for success on his exams.
+
+[CS61A · Jan 1st, 2015] Quality 5.0/5, Difficulty 4.0/5. I felt blessed to have taken this course. I barely had any programming experience before and DeNero simply guided me through. His webcast lecture was probably the clearest I have ever seen. Homework and Discussion handout were helpful. The first midterm was fair but the second midterm kind of shocked us all but he was quick to react and adjust.
+
+[CS61A · Dec 28th, 2014] Quality 4.5/5, Difficulty 4.0/5, Grade: B+. Homework is graded based on effort, Labs and Discussions are only worth points if you are literally killed by the test, and tests can be hard. DeNero is ridiculously smart and a great lecturer and I enjoyed the class. Put in the time (DO THE DISCUSSIONS) and you won't be sorry.
+
+[CS61A · Dec 19th, 2014] Quality 2.5/5, Difficulty 5.0/5, Grade: Not sure yet. I don't know I was pretty hyped for his class but when I took it he really wasn't that great. Maybe because of the huge class size? I began to love CS because of the way I was self motivated to learn in the class, but do not expect him to be very helpful. Very confusing lectures and does not lead into new concepts very well.
+
+[CS61A · Dec 18th, 2014] Quality 5.0/5, Difficulty 4.0/5. Denero is amazing. His lectures are very helpful and he keeps them interesting and fun. Lectures are most commonly viewed online, which is also helpful. You'll definitely learn a lot in this class and help is readily available via office hours and online resources. On the other hand, the work load for this class is large that the exams are tough.
+
+[CS61A · Dec 13th, 2014] Quality 5.0/5, Difficulty 4.0/5, Grade: Not sure yet. John Denero is fantastic. He is loved by students. His (massive) course is extremely well organized. Most of his homework and projects are useful. Lecture videos are posted online, and are very good. Biggest downside is that it's a hard course. I came in with a lot of prior experience and did fine, but I still had to study and practice quite a bit
+
+[CS61A · Dec 11th, 2014] Quality 5.0/5, Difficulty 3.0/5. CS 61A is a difficult class, but professor Denero's humor and enthusiasm made it much bearable. He is an inspiring lecturer and you can tell he really cares about his students.
+
+[CS61A · Sep 28th, 2014] Quality 1.0/5, Difficulty 4.0/5. He's pretty bad. Avoid at all costs!
+
+[CS61A · Sep 19th, 2014] Quality 4.0/5, Difficulty 3.0/5. DeNero is a great teacher for 61A. It was a fun class and he taught us python well. Didn't like Logic but he made python a joy to learn.
+
+[CS61A · Sep 10th, 2014] Quality 5.0/5, Difficulty 3.0/5. Best teacher ever! I went into the course without any programming experience and so far he's made the material extremely accessible. He's a super nice and chill guy as well, go check out his office hours and hang out with him, or if you have questions about NLP or even industry vs academia, DeNero is your guy
+
+[CS61A · Mar 17th, 2014] Quality 1.0/5, Difficulty 5.0/5, Grade: B. He's pretty bad.
+
+[CS61A · Jan 18th, 2014] Quality 5.0/5, Difficulty 3.0/5. John DeNero was incredibly clear, and he was a fantastic lecturer, especially considering that over 900 students took CS61A in Fall 2013. All of the lectures were filmed in advance, so it was not even necessary to go to lecture. He genuinely cares about all of his students. However, the class itself is quite challenging.
+
+[CS61A · Dec 29th, 2013] Quality 5.0/5, Difficulty 3.0/5. Fantastic online presentation, fantastic lecturer, has WONDERFUL TAs, really know howto organize and present concepts and got me into coding! I'm really glad my major requires this class, and am grateful to have taken this class and learned so much from him! That said, no programming experience makes this class very painful, especially projects.
+
+[CS61A · Dec 29th, 2013] Quality 5.0/5, Difficulty 2.0/5, Grade: B. DeNero is an awesome lecturer and really makes all the content easy to read and understand. But don't think you can just skip lectures and not study.
+
+[CS61A · Dec 28th, 2013] Quality 5.0/5, Difficulty 3.0/5, Grade: B. John Denero's lectures, materials, and assignments, and course as a whole could be best described as an unparalleled masterwork of education. Simply put, this guy can turn any willing human being into a computer scientist. Flawless educator.
+
+[CS61A · Dec 28th, 2013] Quality 5.0/5, Difficulty 2.0/5, Grade: A+. John explains everything in a way that the course material just clicked in place. Came in with negligible programming experience and ended up with an A+ in this class. He gives lots of chances to pass this class and earn points (including extra credit). Favorite class ever!
+
+[CS61A · Dec 28th, 2013] Quality 5.0/5, Difficulty 3.0/5. Fantastic class and great professor! Very clear and organized. I think the best part about this class is even though it is formally an intro course, even experienced programmers will learn and find his class interesting by focusing on the programming mindset and problem solving skills necessary to be successful in CS. Strongly recommend this class!
+
+[CS61A · Dec 21st, 2013] Quality 5.0/5, Difficulty 4.0/5. Phenomenal teacher--lecture is clear, tests are challenging but not impossible, class is super-structured and organized, and it's obvious he enjoys what he does
+
+[CS61A · Dec 14th, 2013] Quality 5.0/5, Difficulty 5.0/5. John is a God! Great teacher and so passionate! One of the clearest lecturers ever! Loves Computer Science and you can tell he loves to teach. Projects and homework are doable. Very hard class(tests especially) if you're knew to coding but hard work pays off...
+
+[CS61A · Dec 10th, 2013] Quality 5.0/5, Difficulty 3.0/5. Great professor, very articulate. And nice guy as well!
+
+[CS61A · Dec 9th, 2013] Quality 5.0/5, Difficulty 3.0/5, Grade: B. Best Professor I've Ever Had, and will always be one of the greatest.
+
+[CS61A · Nov 24th, 2013] Quality 5.0/5, Difficulty 1.0/5. One of the best professors I've had at Cal, and the reason I'm majoring in CS. Even with 1000 students, he found a way to make it work.
+
+[CS61A · Nov 10th, 2013] Quality 5.0/5, Difficulty 4.0/5. Brilliant teacher. Really knows what he is talking about. Lectures are funny and very informative. Homework and projects are challenging but so worth it. Hands down, one of the best teachers I've seen. Ever.
+
+[CS61A · Jul 21st, 2013] Quality 5.0/5, Difficulty 2.0/5. Quite possibly the best professor I've ever had. He's a nice guy who's always interesting. His exams are difficult but fair. The projects are fun, and you learn a lot. Take this class. You'll be glad you did.
+
+[61A · May 10th, 2013] Quality 5.0/5, Difficulty 1.0/5. Great professor.
+
+[CS61A · Dec 31st, 2012] Quality 4.5/5, Difficulty 3.0/5. Very good lecturer, and he obviously put a lot of time and effort into his class. He provides many programming resources for his students, most of which he built/co-built himself. Excellent and interesting projects. Maybe it's just me but his tests were difficult though.
+
+[CS61A · Dec 20th, 2012] Quality 5.0/5, Difficulty 2.0/5. hands down one of the most badass, entertaining, clear professors out there, amazing way to start off eecs. As a google executive who works on translate, he sometimes provides great snippets about his own work and how programming relates. Brings in amazing demos like the smule band. If you get the chance, take him, you won't regret it
+
+[CS61A · Oct 10th, 2012] Quality 5.0/5, Difficulty 1.0/5.
+
+[CS11 · Sep 19th, 2012] Quality 5.0/5, Difficulty 3.0/5. By far the best professor I have this year. His teaching style is very clear and easy to follow, and he knows how to keep you engaged. Everyone applauds at the end of his lectures.
+
+[CS61A · Jan 27th, 2012] Quality 5.0/5, Difficulty 4.0/5. By far the best professor I've had. He is full of enthusiasm. I learned so much from his class.
+
+[CS61A · Nov 12th, 2011] Quality 5.0/5, Difficulty 4.0/5. Great class, great professor, and a great intro to how tough EECS is without being excessive.
+
+[CS61A · Nov 6th, 2011] Quality 5.0/5, Difficulty 1.0/5. Wonderful professor. Very helpful - the material was challenging, but doable. John made class enjoyable.
+
+[CS113 · Oct 27th, 2011] Quality 5.0/5, Difficulty 3.0/5. My favorite class this year by far. Lectures are interesting, fun, and very knowledge filled. During lecture, I manage to actually laugh at least once, this guy actually has a sense of humor. Loving my TA as well, Eric Tzeng. The tests so far have been tricky but fair.
+
+[CS61A · Oct 6th, 2011] Quality 5.0/5, Difficulty 1.0/5. Great lecturer, funny, and gets constant applause.
+
+[CS011 · Oct 5th, 2011] Quality 5.0/5, Difficulty 3.0/5. It is the first time I use ratemyprofessor! He, the guy named John DeNero, is awesome. That is it.
+
+[CS61A · Oct 3rd, 2011] Quality 5.0/5, Difficulty 2.0/5. Awesome professor, has a very fun sense of humor and lectures are usually pretty interesting. He he very open to suggestions and answers questions very thoughtfully. He keeps everything online for easy access, and his exams to some degree are fairly challenging but definitely doable. The projects are really fun and have practical use. 10/10
+
+[CS61A · Sep 25th, 2011] Quality 4.0/5, Difficulty 3.0/5. DeNero is a research scientist at Google--He is relatively young, and teaches with a great deal of zeal and enthusiasm. Be forewarned that taking this class w/o programming experience will take a great deal of work and studying. Class could be very easy or hard depending on your experience.

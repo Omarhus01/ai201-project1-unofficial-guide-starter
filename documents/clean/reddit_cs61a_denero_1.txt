@@ -1,0 +1,37 @@
+CS61A question Is CS61A harder in the spring? I looked on berkeleytime and the grade averages for spring with Dan Garcia are WAY LOWER than fall with John DeNero. As an incoming freshman, I have a lot of experience with python and java but was thinking of doing CS10 in the fall and then CS61A in the spring but after seeing the grade averages in the fall vs spring, would it be worth it to just take 61A this fall instead?
+
+I don't think anyone properly answered your question. CS10 was not harder. it was academic integrity. CS61A was harder but that's because the final focused on topics people did not expect it to/were unprepared for. It didn't match past finals. I would assume the issues with 61A this semester will be fixed by the spring semester. 61A was not primarily academic integrity. You can tell this by looking at the grade distributions.
+
+If you've got a lot of Python experience, you should just go straight into 61A. Don't worry about the grades as long as you don't cheat and overly rely on LLMs.
+
+That was not the reason for a low grade in the spring
+
+The grade averages in CS10 and CS61A were due to misconduct, as long as you know what you're doing, trying your best on exams, and can explain your code in projects, you'll be fine.
+
+CS10 was, CS61A was not
+
+61A could also be misconduct though because of the oral part of the project.
+
+Almost everyone scored full marks on the oral exams. Garcia's final was just a lot harder this semester.
+
+Ah ok, my bad for the assumptions.
+
+Also, the oral exams are new. You can't really say it's misconduct as no one knows how students are supposed to do and scoring low isnt proof of cheating unlike in cs10 where there was proof. I got perfect marks on them , so i think if you did the project mostly yourself its fairly easy. The big reason people did worse than fall was the horrible final exam. that was the thing the whole class was complaining about nothing else really.
+
+In my experience (I'm a TA for the class), 61A tends to be equal in difficulty or possibly slightly easier in the Spring. If you have a lot of experience with Python and things like lists or recursion, I think you'll be fine taking 61A in the fall. Taking CS 10 in the Fall and 61A in the Spring is also perfectly fine
+
+this u ? https://www.linkedin.com/in/chris-dodla-537508230/ also I would not take with garcia as you are aware being a TA the final stats(which you refuse to release for no reason even though the class is over so no excuses) was worse than the fall. Stay far away from Garcia, a horrible communicator, he made a post ed and archived the course an hour later. Also gave a useless and insulting boost in the cloober policy. so many rated him low on rmf , well deserved
+
+Garcia is a fair professor with a long history at Berkeley. Based on your comments in this thread and others posted over the last few weeks, you’re thoroughly misinformed. For any prospective students interested in either cs10 or cs61a, you will do fine in either class if you don’t use LLMs to do your work and keep up with the content instead of cramming near exams. I suggest you don’t let yourself be scared by the recent low averages or distributions. The expectations have not changed
+
+Based on your comments in this thread and others posted over the last few weeks, you’re thoroughly misinformed. How exactly ? Based on your comments, you seem fairly delusional, Mr. Dodla. Nice, you didn't address my points as well
+
+All of your points have been addressed in numerous Ed posts and replies by myself and other 61A TAs. I personally replied to nearly every student message on Ed until there were no more unaddressed concerns or complaints since that’s what I’d want if I was a student. If you bring up a new, fair criticism, I’d be happy to engage with it even now. Disclaimer: Personal thoughts and opinions. One thing I’d like to address regarding your other comments in this thread: you’re incorrect that the reason for a low average in CS61A was primarily a harder/different final. We may not have directly failed as many students for cheating as CS10 but our low average was also a consequence of academic dishonesty. I’m limited in how much information I can disclose, but in the 7 terms I’ve taught this class I have never seen as much rampant, blatant, normalized cheating on assignments. I’m talking about provable (beyond reasonable doubt) cheating, not suspicion. This is something we have a lot of data on and I discussed on Ed. It’s my expectation (and hopefully yours as well) that with a large increase in cheating, there will likely be a large decrease in student learning and therefore a large decrease in grades. There are also a number of other factors completely unrelated to Professor Garcia that affected this semester’s grades: 1) large declines in student engagement across all aspects of the course and probably 2) students being increasingly underprepared for Berkeley and 61A. There’s a lot of ongoing research and policy discussions related to this right now (see the UCSD study, see the open letter related to standardized testing, see the experiences of various professors and faculty chairs).
+
+Then tell me why the drastic change in the grade distributions from Fall 2025 ? I cant think of a significant difference in Spring 2026 other than the ones I stated. Are you saying this Fall Semester will have a similar grade distribution to Spring 2026 ? I doubt that.
+
+You are not actually reading my messages. Please reread the message you just replied to. Then go read the pages of text on Ed that also directly answer the question you’ve just asked. Once you’ve done that, you can ask a question that hasn’t been addressed 5-10 times and I’ll reply to it. Your question at the end is new and here’s my answer to that: Possibly, possibly not. It depends on the students. Students in 61A during the Fall tend to have more prior experience and generally more demonstrated interest in CS (ie: it’s their major or intended major) so Fall and Spring have never been directly comparable. The rates of misconduct and engagement between Fall and Spring also vary substantially as a result of aforementioned differences.
+
+If you have a lot of experience you should not even be thinking about CS 10. Save the spot for someone who needs it. Both Profs DeNero and Garcia are outstanding teachers. For incoming freshmen, most of the CS majors take it as their first course in the Fall, so I would say it might be more conducive to take it in the Fall. Grades were way off this past Spring semester because of new format exam changes. Others can expound on that.
+
+yup if denero is teaching both semesters its more or less the same. the only reason it was different in the spring because dan gave a horrible final.

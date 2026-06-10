@@ -1,0 +1,25 @@
+Hilfinger teaching 61A for Spring 2021?! I was looking at the class schedule for Sp 2021 and noticed that cs61a is being taught by Prof. Hilfinger. Has he taught the class before? If so, what should I expect from it compared to DeNero? His RMP reviews aren't too great, but they are predominantly for 61b.
+
+Interpretive Dance, Squidward Community College '20 Oof, RIP spring 2021 61A students Denero is the GOAT Cake icon
+
+i also took the sp17 61a with hilfinger lol materials-wise, its very similar to 61a taught by denero. teaching-wise, i do prefer denero's teaching more (at least hilfinger's ppt doesn't help with anything at all). I think the major difference is their exam writing style. if you take 61a with hilfinger then 61b with him again, it will save you sometime from getting used to how he writes exams. also hilfinger LOVES linked list.
+
+I haven't taken a class with hilfinger, but I know plenty of people who have (lower and upper divs). The thing you have to understand about him is he is one of the oldest tenured professors in not just the CS department, but at the school. This dude's been teaching these classes officially since the 90s, and probably even further back than that. If I recall correctly he's also the head of the CS department? He's an old school professor whose trying to teach a new style of CS learning, so expect things to be hard, but he's probably figured out what works and what doesn't for learning this stuff since he's been teaching for so long.
+
+I took the rare Hilfinger 61A. The classwork seemed about in line with other 61 courses. I wish I had been more prepared or just had a better understanding so I could have appreciated the class better! I think it was he who said that 61A is not a class about programming, it's a class about computing. Well, it's hard to think pedagogically when you're in the grind, but that stuck with me. So I can't really compare it to how it's taught otherwise, but I found aspects of it to be interesting in a cerebral type of way that didn't really show on exams but was enjoyable. He also indignantly mentioned in class during a discussion of state and Turing machines how Alan Turing was driven to suicide by the British Government for being homosexual. I didn't know that before and I wouldn't have known it so I'm quite appreciative for that.
+
+Thank you for responding! Would you say that his exams are harder than/cover the same topics as the usual DeNero exams? Asking this just in case I'll have to rely on DeNero's lectures.
+
+I would say yes, but I don't really remember specifically. I don't recall anything being unusually difficult.
+
+Hey i took it with hilfinger in spring 2017 and i never went to lecture and just watched the lectures in the textbook and did fine in the class. i don’t think 61A differs much from professor to professor as 61B does when Hug/Hilfinger teach
+
+The last time he taught it was Spring 2017. The concepts are going to be very similar regardless of who teaches it, so if you don’t like his presentation style (most people don’t), you can always watch a DeNero video from a previous semester instead, I suppose. He actually is quite good with working with students with questions, and has been known to respond to emails “live” almost 24/7.
+
+Thank you for your response! Do you know whether the Spring 2017 lectures were recorded? I can't seem to find any on the sp17 website or the cs 61a departmental youtube channel.
+
+It wouldn’t surprise me if you didn’t find any material of his from previous semesters. IIRC it’s very hard to find previous exams of his, so other materials might similarly be hard to find.
+
+CS '15, EECS '16 | Lecturer I think it will be on webcast.berkeley.edu if it's there. I took new 61A with him many years ago. Same content, but some dry Hilfinger humor.
+
+Ah, I see. Do you know if his exams are harder than/cover the same topics as the usual DeNero exams?
