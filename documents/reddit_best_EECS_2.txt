@@ -1,0 +1,184 @@
+﻿https://www.reddit.com/r/berkeley/comments/1u0u86w/course_advice_freshman_eecs/
+
+
+
+
+
+
+
+  
+
+Go to berkeley
+r/berkeley
+•
+20h ago
+Easy_Whereas6169
+Course Advice Freshman EECS
+CS/EECS
+Hi! I’m an incoming freshman majoring in EECS and was hoping for some advice regarding my courses for the fall semester.
+The current classes I have selected currently are below:
+- Math 54 (Linear Algebra and Differential Equations)
+- CS 61A
+- SASIAN R5B
+I have a couple of questions.
+1. Is this an adequate number of courses for my first semester or should I be taking more? For context, I have calc 1/2, reading and composition part A, the American history req, and one lower div humanities course done.
+2. As an EECS major, is it better to take Multivariable calc before linear algebra? (I’m coming off of taking AP calc BC this past year so I thought it would be better to take Multivariable calc but Berkeley suggest linear algebra)
+3. Any recommendations for an easier Reading and composition part B course?
+
+
+
+
+iced_matcha29
+•
+14h ago
+I had basically the same schedule but with R5A instead. It was a good amount of work that still allowed me to socialize/get used to college. If you get into the first week or two and want more work you can always do a decal.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+SharpenVest
+•
+20h ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+That's a good schedule and very doable. It's a good thing not to overload your schedule in your first semester. If you want, you can take one more course, but make sure it's not too strenuous.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Easy_Whereas6169 avatar
+Easy_Whereas6169
+OP
+•
+19h ago
+Okay, thanks! Do you think I should take Linear Algebra or Multivariable calc first?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+SharpenVest
+•
+19h ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Don't think it matters. But I think linear algebra is easier imo than multivar. I took multivar before and it was pretty hard, but I looking back I would still prefer it that way since I was fresh off of high school calc and the concepts were still fresh in my head
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Easy_Whereas6169 avatar
+Easy_Whereas6169
+OP
+•
+19h ago
+Alright. It seemed intuitive to take multivar first since it builds off of calc 1 and 2, but right now during Golden Bear Advising they recommend taking linear algebra first.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+ProfessorPlum168
+•
+17h ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You need the Linear Algebra as a prerequisite to get into the 2 ELENG 66/64 classes. So I definitely would take LA first.
+
+
+You can add a 4th class but make like a breadth/HSS class.
+
+
+Easy_Whereas6169
+OP
+•
+16h ago
+With a HSS class, my total credits would be around 18. Is that too much? Also, do you suggest completing the general reqs later and just focusing on major reqs at the start? In other words is it better to take Math 54, CS 61A, and another technical course like physics 7A instead of the reading and composition course.
+
+
+InterestingPop3964
+•
+18h ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+You only have 12 units, so you'll need to add a DeCal or another course.
+
+
+I'd always recommend Math54 first, though 53 and 54 don't build on each other so they're pretty interchangeable.
+
+
+ColwritR4B is pretty easy (in most sections, over 50% of the course gets an A). It typically is not very interesting, though.
+
+
+
+
+
+
+Upvote
+0
+
+
+Downvote
+
+
+Reply
+
+
+u/Easy_Whereas6169 avatar
+Easy_Whereas6169
+OP
+•
+17h ago
+Okay, thanks! Although I think for the engineering school, the minimum amount of units needed to be considered as a full time student is 12 units. I have another course in mind that I could add but it is 4 units. Is 18 units in total too much in your opinion? I want to be thoroughly challenged, but not constantly studying every minute of every day.

@@ -1,0 +1,334 @@
+﻿https://www.reddit.com/r/berkeley/comments/18thykq/easiest_cs_upper_div_to_take/
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+2y ago
+screamingcrying1018
+
+
+Easiest CS upper div to take?
+University
+I know none of them are actually easy, but which is least hard?
+
+
+
+
+AnarchyisProperty
+•
+2y ago
+I’m p sure CS 188 is widely agreed upon to be easy
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+2y ago
+eecs '24, '25
+IMO there’s no ‘easiest’ cs upperdiv. Instead you should play to your strengths.
+
+
+If you did well in cs70 then ee122 will probably be easiest for you.
+
+
+Similarly if you did well in ee16b then ee120 will be a piece of cake.
+
+
+If you did exceptionally well in cs61a then the fall version of cs164 could be the easiest for you.
+
+
+If you did well in 61c then cs161 could be the easiest for you.
+
+
+If you liked the focus on projects that 61b had then cs184 (or even cs180 if you have the ML background) could be a great experience for you.
+
+
+Same can be said for data8 to 100, etc. The important part is finding something you’re interested in and understand the prereqs well enough for.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/Ancient_Raspberry976 avatar
+Ancient_Raspberry976
+•
+2y ago
+Anyone have thoughts on how CS 160 or INFO 159 is like?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+2y ago
+eecs '24, '25
+I think cs160 depends on the gsi u get — if you get a decent one then it’s a great class to learn about frontend (and even connecting that to a backend system tbh + working as a team, coordinating deadlines, and presenting/figuring out what is visually appealing/easier for users to use etc is all very important), whereas info159 is a lot of labeling busywork and a lot more on the linguistics side than the deep learning neural language processing/chatgpt side that people expect
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Ambassador-8883 avatar
+Ambassador-8883
+•
+8mo ago
+hey for info159, i saw that the requisites are COMPSCI 61B; COMPSCI 70, COMPSCI C100 / STAT C100 / DATA C100, MATH 55, STAT 134 or STAT C140 / DATA C140; strong programming skills. however, as an eecs major we dont have to take math 55 or those stat classes... were you still able to enroll?
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+EECS 126
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+2y ago
+eecs '24, '25
+FYI OP this is a joke^
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+u/ComplexCountry avatar
+ComplexCountry
+•
+2y ago
+Second that
+
+
+
+
+Upvote
+-1
+
+
+Downvote
+
+
+Reply
+
+
+ProfessorPlum168
+•
+2y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+The 2 non-CS classes, Data 100 and Info 159, are relatively speaking the answers to your question.
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+nicotinepercocet
+•
+2y ago
+are there any more that are comparatively easy
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+ProfessorPlum168
+•
+2y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+So when you say CS upper, there are tons of non-CS classes you can take as an upper div CS elective, of which many are probably considered pretty easy. But as far as specifically CS classes that fulfill the 5 core required classes, probably nothing going to be easier than those 2. Maybe 160 or 168.
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Data 100, and it’s a really good practical/relevant class!
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+thewshi
+•
+2y ago
+Data 100
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+2y ago
+eecs '24, '25
+i doubt much has changed since this was last asked, here's an older version if anyone wants a starting point for a response: https://www.reddit.com/r/berkeley/comments/9r3tmo/ranking_of_cs_upper_divs_in_terms_of_difficulty/
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+screamingcrying1018
+OP
+•
+2y ago
+thanks!
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/ElectronicFinish avatar
+ElectronicFinish
+•
+2y ago
+EECS151

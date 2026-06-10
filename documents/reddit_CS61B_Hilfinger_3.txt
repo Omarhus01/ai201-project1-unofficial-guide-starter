@@ -1,0 +1,203 @@
+﻿https://www.reddit.com/r/berkeley/comments/dlc7e5/should_i_be_avoiding_hilfinger_61b_next_semester/
+
+
+
+
+r/berkeley
+•
+7y ago
+Winstonp00
+CS '22
+
+
+Should I be avoiding Hilfinger 61B next semester?
+Hey all, I'm currently a freshman, intended CS, doing 61A and Data 8. My plan was to do 61B and Math 1B next semester, but given all the recent drama with Hilfinger 61B, should I be avoiding the class? Or has 61B with Hilfinger always been problematic and the recent issues have just been more publicized?
+
+
+If I will not be doing Hilfinger 61B, I probably will be doing EECS16A in place of it. This would have me doing 61B together with 70 in the fall of next year, and 61C with EECS16B afterwards. Thoughts?
+
+
+Zeta604
+•
+7y ago
+Hilfinger usually teaches in the fall so waiting a semester likely won't help you
+
+
+
+
+Upvote
+7
+
+
+Downvote
+
+
+Reply
+
+
+
+
+The_Amazonian
+•
+7y ago
+[deleted]
+•
+7y ago
+•
+Edited 7y ago
+It’s been logistically stressful but also far from impossible to do well in. I’ve gotten more extra credit points than missed points in the class so far including the autograder for this project and I am NOT a top student (pretty non impressive average technical grade at Cal).
+
+
+Hilfinger offers an absurd amount of extra credit points on the projects and if you spend a large amount of time even with the logistical issues it is not impossible at all to get all the points plus several extra credit points reliably. This class so far has been more substantial than any other in putting me in an excellent situation to declare GPA wise for what it is worth.
+
+
+Also worth noting I’m taking 61B and Cs70 together this semester and surviving okay even though it takes a fair amount of time to stay caught up in both classes. And EE16A is a course that I intentionally put almost no effort into and prioritized other courses over and the massive curve let me fail most exams and get a B. If any of that is helpful to you. Good luck
+
+
+
+
+
+
+Upvote
+7
+
+
+Downvote
+
+
+Reply
+
+
+Winstonp00
+OP
+•
+7y ago
+CS '22
+Ah that gives a bit more insight.
+
+
+By "absurd amount", how much do you mean exactly? For example in 61A extra credit is about 3% of the final grade (my TA said about 10 ECs are made available every semester and the course is out of 300). Is it significantly more than that?
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+7y ago
+•
+Edited 7y ago
+So, for project zero, it was out of 16 points. By simply NOT attempting to cheat the autograder and submitting a genuine attempt, I received three extra credit points. So I got a 19/16 on project zero.
+
+
+For project one (due tonight at midnight), it was out of 28 points, which I got a 28/28 on the autograder for (that we got to see in its entirety ran before the deadline to fix our errors with in test cases). We also got 2 extra credit points for submitting probably less than two hours of work on a "checkpoint" several days before the project was due (so these were essentially two free extra credit points) and one extra credit point for writing tests that helped with the project. So I got a 31/28 on project one. There were also two additional extra credit points that could be earned by implementing an extra feature but I decided to skip doing this extra credit.
+
+
+In Hilfinger's class, the midterms are EACH worth only 17 points and so BOTH midterms are essentially worth almost no more than one of four projects is. The midterms and final are ENTIRELY open book open notes of an unlimited amount as well which made it less horrible. I got about 1 point above the median on the midterm but far from a distinguished score. This has left me with more extra credit points than missed points at this point in the course.
+
+
+I could do substantially worse than I have at this current pace and get an A, so I would have the say that the grading breakdown is quite fair. Only 200 total points make up the course, all but about 60 or so are fully obtainable project/hw/lab points, and there are also around 10-15 extra credit points to get on top of that. I feel pretty low on the scale of stress as a result of these quite generous grading parameters, and if you look at past 61B courses with Hilfinger from the last few years, about 50% of students get an A final grade or higher.
+
+
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+u/SirensToGo avatar
+SirensToGo
+•
+7y ago
+why do you buy groceries at a bowling alley
+Knowing this, why do people hate Hilfinger? This sounds exactly like the kind of profesor I need as an L&S CS hopeful. Like low weight midterms and hella extra credit sounds wonderful
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+We_Are_Grooot
+•
+7y ago
+the projects are very long, and there are some logistical snafus in the class. overall though imo people complain too much lol.
+
+
+that said, if you're above average at CS exams hug's class is much much less work, and he's also just a great dude. I'm glad I took it with him.
+
+
+September_Sky
+•
+7y ago
+piazza also makes the outrage seem somewhat worse than it actually is since outraged people tend to type the most there. the only real issue i've had so far is that the staff solutions aren't exactly as thorough as the specs indicate our solutions should be, which can be a bit confusing if you're trying to match the behavior of the staff code. fortunately clarification comes quick if you just ask for it on piazza or in OH.
+
+
+i've heard hug is great but by no means is hilfinger's class impossible so far. not looking forward to gitlet or anything but i feel pretty good about all the assignments up to this point.
+
+
+Winstonp00
+OP
+•
+7y ago
+CS '22
+How have the projects been so far? I'm hearing horror stories of people who said their code worked well but the autograder was buggy and marked them down, or whatever? Has that happened to you?
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+7y ago
+The autograders have both had issues in early iterations but been corrected at later points and applied fairly. I have not ran into an issue where prior to the deadline, the autograder gave me a false input back that led me to earn a worse score than I deserved. So, they have been a shit show in terms of being buggy and it has created artificial stress as a result, but none of these issues resulted in me getting marked down in a definitive way that hurt me and could not be overcame by being diligent.
+
+
+There are some examples on this project of needing to be extremely precise to pass autograder tests, but I did not feel as though the level of precision required could not be figured out independently and it really just felt mostly like thoroughness rather than something unfair.
+
+
+Winstonp00
+OP
+•
+7y ago
+CS '22
+Ah okay, that's good to know. Thanks for the clear explanation of what's going on in 61B. Hopefully the bugs being ironed out now means they wont be that bad when I take the class.

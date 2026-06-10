@@ -1,0 +1,565 @@
+﻿https://www.reddit.com/r/berkeley/comments/13rz111/cs_upper_divs_class_recommendations/
+
+
+
+
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+3y ago
+Born_Doughnut_9560
+
+
+CS Upper Divs Class Recommendations
+CS/EECS
+Hey guys, I will be starting UCB this fall as an incoming transfer in CS and I was wondering if I can get some good CS upper Div classes and the best Non-Tech class to take. Thank you!
+
+
+
+
+
+
+
+
+
+
+AnarchyisProperty
+•
+3y ago
+CS 170/172 is the theory track, 182 is Deep Learning, 188 and 189 are Artificial Intelligence and Machine Learning respectively. I’d recommend those having only taken 61A and 61B. (And a CS 198 codebreaking/cryptography/computer security DeCal)
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+ProfessorPlum168
+•
+3y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Do t forget that you still have to declare first, so that will still take a semester or two before you can take uppers.
+
+
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+u/Born_Doughnut_9560 avatar
+Born_Doughnut_9560
+OP
+•
+3y ago
+Yes, I am going declared CS because of the impacted major policy in L&S
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+ObiJuanKen0by
+•
+3y ago
+I believe almost all upper division courses do have either CS 61A/B/C/70 or a combination of 2 of them as prerequisites. You’ll probably still need to finish those (for sure 61C and 70) before you’ll be allowed to enroll.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Born_Doughnut_9560 avatar
+Born_Doughnut_9560
+OP
+•
+3y ago
+I have already finished 61C and I only need to CS 70+CS47b(bridge class for 61B)
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+3y ago
+transfers for pilot majors starting this fall are automatically declared iirc
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+ProfessorPlum168
+•
+3y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+Interesting, all these separate rules are hard to keep track of. Doesn’t make sense to have separate rules for transfers and freshmen.
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+3y ago
+It's a new policy for this semester, and I think freshman also come declared for Computer Science in this new semester.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+
+
+[deleted]
+•
+3y ago
+ProfessorPlum168
+•
+3y ago
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+freshmen who put CS as their major have to take 61A/B/70 with a satisfactory GPA (2.0+) before they can declare. That was the original plan. Of course this may have changed along the way, as I’m out of the loop on any recent changes nowadays. It makes more sense for all CS students to just be declared from the outset and not just transfer students.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+CSIntruder
+•
+3y ago
+Cs162, cs170, and Spring Cs 189. I would say arguably three of the best and richest lower div cs classes Berkeley offers. In my opinion, it’s a waste to go to Berkeley and not take them.
+
+
+
+
+
+
+Upvote
+15
+
+
+Downvote
+
+
+Reply
+
+
+u/Puzzleheaded_Love334 avatar
+Puzzleheaded_Love334
+•
+2y ago
+Hi！For cs160 and cs162，Which one do you think is more helpful？ cuz I want take cs260, the prerequisite is cs160.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+CSIntruder
+•
+2y ago
+I never took 160 but 162 all the way. I have friends who took 160 and said it's pretty underwhelming and most of them say they did not learn all that much. It is more research and human focused than it is technical coding and engineering. 162 is the single best coding class offered at Berkeley in my opinion. It is the only one that teaches you how to properly write a design document, conduct design reviews, and code in a pretty large pre-existing code base with a group. It mirrors almost exactly how you will work in industry, and is the only class in which you will gain this experience here. I think it is kind of criminal that 162 is not a required class for people in EECS/CS. At the end of your Berkeley career, I can almost guarantee that 162 will be one of the only classes where you look back and feel that it has actually helped you grow and learn as a software developer and when you get an internship you will realize it is the only class that has prepared you to do real work. I have taken most of mainstream cs courses offered here and 162 is the only one that prepared me for my job and was worth the work.
+
+
+However, if you are not looking to be a SWE and are more looking down the PM or research route, 162 is hard to recommend and 160 will be a better use of time. With how great 162 is, it comes with a shit ton of work, which will most likely be wasted and miserable for someone not trying to become a SWE.
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/Puzzleheaded_Love334 avatar
+Puzzleheaded_Love334
+•
+2y ago
+Thank u very much! Real helpful advice. I indeed want to take phd in ML/NLP later. I will take 162 if I have more time. And I have another question about cs288. Is this course no longer open to undergraduates？
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+CSIntruder
+•
+2y ago
+I am not sure. I know a friend who has taken this class but I think they either audited the class or specifically emailed the instructor for permission. In general, the grad classes being open to undergrads is completely dependent on how the instructor feels and most have very few open seats for undergrads. You almost always need to email the instructor for permission.
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/DoubleBusiness4898 avatar
+DoubleBusiness4898
+•
+3y ago
+It’s a backbone software engineering class not hardware
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Born_Doughnut_9560 avatar
+Born_Doughnut_9560
+OP
+•
+3y ago
+Thank you, I plan to take cs 170 and cs 189 but I am not sure about cs 162 as I am not interested much in hardware stuff
+
+
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+varsityvideogamer
+•
+3y ago
+CS ‘22
+162 is Operating Systems, not hardware. Imo most useful class when you’re going into software engineering fwiw
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+CSIntruder
+•
+3y ago
+•
+Edited 3y ago
+Don’t take 162 for the content. Take it for the programmer it’ll make you become. It’s the only class that help you with knowing how to work at a job. Also, 162 has nothing to do with hardware. It is the most software class you can take.
+
+
+
+
+Upvote
+9
+
+
+Downvote
+
+
+Reply
+
+
+larrytheevilbunnie
+•
+3y ago
+Cs 194-26, computer vision, is godly
+
+
+
+
+
+
+Upvote
+12
+
+
+Downvote
+
+
+Reply
+
+
+u/berserk36x avatar
+berserk36x
+•
+3y ago
+hows workload and it is an full application course right?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+larrytheevilbunnie
+•
+3y ago
+Yeah it's quite a bit of work
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/berserk36x avatar
+berserk36x
+•
+3y ago
+Just realize r u Larry in 189 lol
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+3y ago
+Comment deleted by user
+
+
+
+
+
+
+Upvote
+Downvote
+
+
+Reply
+
+
+Share
+larrytheevilbunnie
+•
+3y ago
+Well, the projects are pretty easy in retrospect, but I had to grind super hard during the class.
+
+
+Just go to OH and you'll be fine.
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Born_Doughnut_9560 avatar
+Born_Doughnut_9560
+OP
+•
+3y ago
+Thank you, do you have any other recommendations?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+larrytheevilbunnie
+•
+3y ago
+Uh, CS184 computer graphics is nice, and so is Info 159 NLP
+
+
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+u/Born_Doughnut_9560 avatar
+Born_Doughnut_9560
+OP
+•
+3y ago
+Thanks!

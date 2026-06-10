@@ -1,0 +1,345 @@
+﻿https://www.reddit.com/r/berkeley/comments/122ea3o/musttake_cs_upper_divs/
+
+
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+3y ago
+maybeumnotsure
+
+
+Must-take CS upper divs?
+CS/EECS
+I'm interested in computer graphics, frontend engineering, ML/AI, full stacks, or just swe in general. I'm looking for CS upper divs that I MUST take to get better knowledge in any of those areas. I already took 170. Any recommendations for Fall 2023? Is 162 a must in my case as well?
+
+
+
+
+
+
+LandOnlyFish
+•
+3y ago
+168, 161, 164
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+3y ago
+eecs '24, '25
+In order from must-take to not so much, we have:
+
+
+Computer Graphics: CS 184 (Graphics: math/physics heavy, lots of interpolation types as well, also surprisingly useful in quantitative finance applications which helps if you want a job outside of game dev when you graduate), CS 284 (Advanced Graphics: i believe this hard pre-reqs 184 but allows you to go more in-depth), CS 294-164 (Computational Color with an emphasis on graphics, i believe this hard pre-reqs 184), CS 194-26 (Computational Photography with an emphasis on Computer Vision: heavy project workload), CS 280 (Computer Vision), EECS C106AB (Robotics: has a vision portion with lidar and you get to work with segmentation on real-world inputs), EE 120 (Signal Proc: tangentially related with Fourier transforms which are somewhat important to know if youre doing graphics, though imo physics is much more important).
+
+
+Frontend Engineering: CS 160 (UI/UX: You will make a lot of frontend UIs in this class and learn a lot about applicable HCI), Info 253A (Frontend Engineering in React: this counts for a CS upperdiv req though it is only 3 units), CS 169 (SWE: good if you want to learn formal SWE + not have the pressure of being in a real-internship where you can mess up).
+
+
+ML/AI: CS 182 (Deep Neural Nets: probably the most important class to take since transformers are everywhere and this class re-teaches all the relevant stuff from 189 in the first few weeks + introduces you to pytorch in a meaningful way, i.e. it's tested on exams and not just a for-fun topic), CS 288 (NLP: very worth taking but impossible to get into thanks to chatgpt hypebeast grad students), Data100 (Intro to Data Sci: good class to get practice with real-world ML tools but hard pre-reqs d8), CS 285 (Deep RL: less worth taking than 288 but you take what you can get into and afaik this allows everyone in who has an A in cs189 or d100), EECS 126 (Probability: the first 3rd is cs70 review but is actually the math used in Stable Diffusion, the 2nd third of the class is info theory which covers entropy -- used in decision trees -- and KL divergence which is used a lot in ML, and last 3rd of the class is probably the most relevant to ML with MLE being taught very well + MVGs), CS 189 (Intro to ML: imo this class is useless and outdated but people still take it anyways since ML labs require it, good class other than no partial mcq/outdated content/anti-vax prof/high variance in grading curves across semesters lol), EECS 127 (Optimization: very useful in various ML problems), Data C102 (Inference: good class to learn bayesian decision making & more niche topics such as differential privacy), CS 188 (Intro to AI: probably not worth taking, take d102 xor cs285 instead).
+
+
+SWE in general: CS 162 (OS: you work on a big project as a team), CS 267 (Parallel Programming: you learn how to code for GPUs which is pretty important as well as general low-latency coding speedup techniques), CS 161 (Security: you make a dropbox clone and learn about the internet so there's that), CS 164 (Compilers: gives you a different level of view into coding, I think the avg swe would benefit from this class), CS 168/EE 122 (how can you call yourself a CS major working in tech if you dk how the internet works -- all your non-technical friends will probably equate CS and Tech Support anyways -- this is kinda stuff people expect CS grads to know though you can get by without it, most people don't take these classes anyways).
+
+
+Just because something is first on the list doesnt mean it's a "must-take". I highly dislike that word as there is no one path to success and take classes that interest you the most and you will be more successful doing something you like than sitting in a class you hate. CS61AB (not upper-divs) but probably the most important so like with a Berkeley CS degree, the barrier to entry for SWE jobs isnt that high (though getting high paying jobs is harder nowadays since recession + layoffs, so start early).
+
+
+
+
+
+
+Upvote
+64
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Yo, in your description of CS 285, you said that students who received an A in Data 100 could take the class. Do you know where you got this information from?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+2y ago
+eecs '24, '25
+There's a google form for enrollment and it asks if you've taken a ML class like cs189 or d100
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Thanks so much for responding! Hopefully its still the same
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/AwayRecording avatar
+AwayRecording
+•
+3y ago
+I’m in 182/282a rn. Great class. Also, why does the antivax thing matter for the 189 prof?
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+TriggeredEllie
+•
+3y ago
+I would argue to add 170 on there, dp and other algs covered are pretty important and helpful in getting jobs (medium-hard leetcode problems)
+
+
+
+
+
+
+Upvote
+-1
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+3y ago
+eecs '24, '25
+OP said they took 170 already
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+u/ParCRush avatar
+ParCRush
+•
+3y ago
+Small nitpick: low latency is not equivalent to high throughput, the latter of which is a slightly more appropriate term for 267. Very little of 267 actually covers low latency programming.
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+3y ago
+eecs '24, '25
+Yeah that’s a fair nitpick
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/maybeumnotsure avatar
+maybeumnotsure
+OP
+•
+3y ago
+Goat
+
+
+
+
+
+
+Upvote
+20
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+3y ago
+eecs '24, '25
+cs 186 and leetcode decal (not offered anymore) are also good for swe, though i didn't include 186 since I'm not personally familiar with the content (i havent taken it, and don't plan to after having taken cs267 and data101).
+
+
+This is a good overview but without the granularity in rankings which are more what you asked for:
+https://hkn.eecs.berkeley.edu/assets/course-map-2019-da79ecbe2fc25e6b6349b8931364890032b8d51aacaccea65151ae98316f0587.png
+
+
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+3y ago
+It’s not leetcode but the competitive coding club hosted an into to competitive coding decal this semester. I can only assume they’ll offer it again as the officers aren’t seniors
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+u/goblinrum avatar
+goblinrum
+•
+3y ago
+linex and compooter science
+I don't want to throw shade on 186 but the class focuses way more on the theoretical "how to build a database from scratch" and counting I/O part. Doesn't actually stress building systems using databases as much, which is what is probably more common in industry.
+
+
+
+
+
+
+Upvote
+10
+
+
+Downvote
+
+
+Reply
+
+
+rsha256
+•
+3y ago
+eecs '24, '25
+Yeah but I’d reckon how to make a db from scratch is good background knowledge for swe interviews? Like gitlet but more for systems? Or not really?
+
+
+goblinrum
+•
+3y ago
+linex and compooter science
+They give you the pseudocode for most of it or tell you what you need to do. They also give you the majority of the setup code for their rookieDB, so it's not really like gitlet in any way. The tests are 80% "how many input outputs does this hypothetical scenario take."
+
+
+I've interviewed for Core/Database roles (didn't get them though) and I've never gotten questions about how a B+ tree works with databases or count how many IOs an operation takes. I feel like that part misses how to test for understanding in some way.
+
+
+The class does also cover concurrency, threading, and replacement policies that mirror what you might find in 61c/152/162 that might be good in depth information for interviews though.
+
+
+bearberry21
+•
+3y ago
+Given you listed pretty much most major areas of upper divs just take the popular ones. There’s a popular one for most of the domains you listed. 169 or some decals can give you the front end or full stack or the full TAs rack deep learning class if offered

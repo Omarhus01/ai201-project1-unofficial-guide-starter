@@ -1,0 +1,554 @@
+﻿https://www.reddit.com/r/berkeley/comments/gp4mf9/review_of_cs61b_with_hilfinger/
+
+
+
+
+r/berkeley
+•
+6y ago
+170-162-61-16
+
+
+Review of CS61B with Hilfinger
+I gotta say, this was the class I was most worried about, and yet it ended up being my best this semester.
+
+
+Pros:
+
+
+Very useful material especially for SWE
+
+
+Mostly well-designed projects, and Gitlet in particular was a real star.
+
+
+Course staff are very helpful and engaging, and discussion and lab are well-run.
+
+
+Lots of available resources for practice.
+
+
+I can't emphasize this enough: easy to get good grades. While this might be the last ever semester with the famously low Hilfinger bins (they were raised some 20 points early in the semester before Professor Hilfinger restored most of them to the previous level in March or so), I was still able to get A+ even though that bin wasn't lowered to its previous level.
+
+
+I did get full credit + EC on most projects, plus one point from tournament, to get 120/100 on project, but less than 50% on both tests.
+
+
+Even then, I was assured of an A before finals, and the midterm clobber helped push over the A+ bin.
+
+
+Mostly no autograder problems this semester (much less than last semester, basically no drama, but see cons below)
+
+
+Cons:
+
+
+First eight or so lectures are boring recaps of 61A material, in Java. I thought this gave a bad first impression of Professor Hilfinger's lectures, and it does more interesting later on.
+
+
+Past exams policy is still ridiculous, makes it difficult to check my knowledge.
+
+
+Project 0, Signpost, is unnecessarily difficult. I actually found it to be the hardest project this semester, mostly thanks to the convoluted language used to explain mechanics. It's already the first project and worth the least, so it should be less difficult, not more, than the other projects.
+
+
+sometimes your past HW or project score can decrease because they reran the autograder and it mysteriously fails, so you have to keep checking Piazza to see if someone is complaining about this, then check if you were affected.
+
+
+Overall, I'm glad I took 61B with Professor Hilfinger. Would take his classes again.
+
+
+
+
+
+
+forahotsec
+•
+6y ago
+karate learner
+lmao im glad im not the only one who thought signpost was the hardest project. i swear if i hear connectable one more time....
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+6y ago
+Comment deleted by user
+
+
+
+
+
+
+Upvote
+Downvote
+
+
+Reply
+
+
+Share
+170-162-61-16
+OP
+•
+6y ago
+It will be in a couple days I assume.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+jedberg
+•
+6y ago
+CogSci '99
+Wow, he must have really changed how the course was run since I took it. I took it in S97, which was the first time it was in Java. Tests were open note, open book, open whatever you want (but remember we didn't have Google or internet access in classrooms).
+
+
+And that class was hard. It was known as the hardest of the A/B/C series. 70% got you an A+ hard.
+
+
+Hilfinger had reviews that he was proud of that I can't even repeat here because they weren't appropriate then and certainly aren't now.
+
+
+But it's true, the stuff you learned in 61B was the kind of stuff you get quizzed on for junior SWE roles (and sometimes even senior SWE roles).
+
+
+If you mastered 61B, you're off to a great start.
+
+
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+170-162-61-16
+OP
+•
+6y ago
+Tests were open note open book this semester even before we went online, and open internet once we did. I swear that 61B single handedly contributes to deforestation based on the amount of sheets people printed for that first exam
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+6y ago
+Comment deleted by user
+
+
+
+
+
+
+Upvote
+Downvote
+
+
+Reply
+
+
+Share
+170-162-61-16
+OP
+•
+6y ago
+Yeah as I said, there was 20 ish EC on projects, plus there were more HW points available than was stated on the syllabus. I didn't break 50 on any of my tests but still got A+.
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Anon10W1z avatar
+Anon10W1z
+•
+6y ago
+L&S CS '23
+Yeah there was an insane amount of extra credit
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+6y ago
+Overall, I really enjoyed the class (especially the projects) as well. However, I still don't understand why solutions to past exam problems are not released, which is probably my biggest gripe with the class. The lecture about Pseudo-Random Numbers was also hella confusing lol
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/butiwish avatar
+butiwish
+•
+6y ago
+I also love the class this semester and agree with every point. Even with the changes to make Signpost more manageable this semester, I also found it to be unnecessarily hard for how much it was worth for our grade. LOA was a game I understood, not too sure about Signpost.
+
+
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+u/EdJewCated avatar
+EdJewCated
+•
+6y ago
+CS/Linguistics '23
+Signpost was really hard to grasp even after reading the spec a few times. LOA, on the other hand, I was able to understand after reading it once, only really needed to reread certain parts to make sure my code did what it needed to do.
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+idomoderatelywell420
+•
+6y ago
+data science '21
+I agree with 100% of everything, plus a similar thing to the poster above-- while I do love that 61B taught me how to write programs, and it was neat to do projects with less reliance on skeleton code and more reliance on a spec, and of course I do love a class where exams don't make or break you.....
+
+
+The flipside of that is the course content from the last project onwards basically went right over my head since I knew Gitlet was a) important and b) all I needed to lock the A grade. So uhhhh I did love this class a lot but I think it's also the one I'm going to have to review the most after the fact because I walked away being confident with some parts, but understood virtually none of others (LLRB??? sorting algos??? what are those lol) whereas with other classes here, I feel like what I've learned after the course is over is a bit more well rounded? idk?
+
+
+
+
+
+
+Upvote
+9
+
+
+Downvote
+
+
+Reply
+
+
+nulleq
+•
+6y ago
+LLRB??? sorting algos??? what are those lol
+
+
+I think it's fine if 61B imparted on you the ability to self study these. There's a ton of unique data structures out there that 61B does not teach, which you will use, analyze, and perhaps create. e.g. bloom filters, merkle trees
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+u/Haunting_Muffin avatar
+Haunting_Muffin
+•
+6y ago
+sometimes your past HW or project score can decrease because they reran the autograder and it mysteriously fails, so you have to keep checking Piazza to see if someone is complaining about this, then check if you were affected.
+
+
+This sounds like your worst nightmare. Ever thought they'd re-run the autograder one last time before posting your grades on Calcentral?
+
+
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+u/butiwish avatar
+butiwish
+•
+6y ago
+No, often it would be that tests didn’t run on the first day the autograder was released or they added the check for our additional tests.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/rllyanotherthrowaway avatar
+rllyanotherthrowaway
+•
+6y ago
+•
+Edited 6y ago
+'23
+Anyone else get an A+/A and still feel like they didn’t learn AS MUCH as everyone claimed. Like before taking the class everyone was like THIS is the class that will prepare you for swe interviews and is the most critical class, blah blah. But I honestly don’t think I learned that much and all I got was that hash sets and hashmaps are fast.
+
+
+I got an A+ and curious if anyone else felt this way?
+
+
+
+
+
+
+Upvote
+65
+
+
+Downvote
+
+
+Reply
+
+
+nulleq
+•
+6y ago
+> But I honestly don’t think I learned that much and all I got was that hash sets and hashmaps are fast.
+
+
+Lol, you also learned about stacks, queues, trees, heaps, graphs and graph transversal algorithms, sorting algorithms, runtimes for all. You also got valuable experience implementing or using those in homeworks and projects. As the name implies, you learned data structures. If you did gitlet, then you also got a bit of systems design experience.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+ExtraCaramel8
+•
+6y ago
+Same. I made an A+ but still kinda feel iffy about the key data structures in this class. As much as I loved the projects especially gitlet, I lowkey wish they were more agligned with or used more course material. Although on the other hand I do see the importance of having to figure things out on our own for the projects
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+oski-is-watching
+•
+6y ago
+cs (crying and sobbing) '22
+all I got was that hash sets and hashmaps are fast
+
+
+facts lmao
+
+
+I'm in the same position as you; I think there's an opportunity to learn a lot, but since the exams are worth so little, I crammed all of the actual data structures knowledge and forgot about it promptly after the exam. the things I learned were the skills I actually applied consistently such as building projects that had more freedom than just filling in a method here and there, debugging, testing, etc. my projects involved primarily arraylists and hashmaps so I suppose if I made them fancier I would've learned actual implementation of data structures more. I do feel I really grew as a programmer though, so I appreciate that.
+
+
+THIS is the class that will prepare you for swe interviews
+
+
+after hearing this about 61b and 170, and having taken both now, I think the only thing that will really prepare you for swe interviews are simulated swe interviews. feel free to disagree with me here (I'd like to hear thoughts on this since I've seen an increasing number of people cast leetcode/similar as useless effort while I still think it's very helpful if you actually put time into it) but the only thing these classes give you are the tools to solve interview-style questions in an efficient manner. you'll have taken away knowledge like, "which data structure / algorithm should I use in the scenario where my problem is x and my time/space constraints are y?" and the reasoning behind these questions (and imo it's a little difficult to solve leetcode-style questions without that background knowledge) but if you're looking for direct success on swe interviews, I still believe it's a quite specific skill that you need to directly train yourself for. kinda like how you can't do very well on the SAT if you're not good at math, but just because you're good at math doesn't mean you can always expect to just sit and take the SAT without practicing and get a top score since there's more than just mathematical knowledge involved.
+
+
+I don't know if my experience is common, but I too am disappointed that 170 didn't turn me into a leetcode goddess. what all was the point then
+
+
+
+
+
+
+Upvote
+25
+
+
+Downvote
+
+
+Reply
+
+
+We_Are_Grooot
+•
+6y ago
+I agree with you. 61b and 170 give you the background info and the algorithmic skills to come up with solutions, but the hardest part of leetcode-style interviews (for mediums and especially hards) isn't coming up with the algorithm, it's implementing the algorithm correctly (or at least coming close). 61b doesn't cover leetcode-style programming much and 170 doesn't at all.
+
+
+I think internships don't usually expect you to get nearly perfect code for hard problems, so people often get offers just knowing the concepts and being half-decent at coding it up, but from what I've heard full-time interviews do.
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+u/idk95129 avatar
+idk95129
+•
+6y ago
+EECS'16
+It's been a couple years since I've graduated and I've taken part in doing interviews for my company. So this is mainly just to help add some data points and maybe add some insight into interviews. I can't say this is true for all companies.
+
+
+What I / the company that I work for try to look for in new grads are:
+
+
+General grasp / understanding of fundamentals. This mainly includes data structures and algorithms.
+
+
+Clear communication
+
+
+Ability to handle solving a new problem.
+
+
+Oftentimes, I have seen candidates who have been able to recite some common algorithm (like BFS) or handle solving some problem because they probably just learned it or were just reviewing it the night before. That usually isn't what impresses me / what compels me to move a candidate forward to the next round.
+
+
+Usually I'll try to dig deeper on the problem to try to get to a part thats usually not covered in textbooks and see how they think through things. As a simple example, in the case of BFS, most textbooks will insist that the runtime is O(|V|+|E|) and so one simple thing I like to do is frame the problem so that it isn't obvious what the |V| and |E| is and instead give different parameters. You'd be surprised at how many candidates I've interviewed blindly say O(|x| + |y|) without really thinking about what these new parameters represent. Thinking about and talking through what the new time complexity would be in terms of the new parameters is much more impressive :) Usually from this, I'm able to get some small data points on the candidates ability to handle solving a "new" problem, see if they can communicate their ideas, and debatably see what understanding they have on time complexity.
+
+
+Edit: Realized my formatting was off.
+
+
+
+
+Upvote
+7
+
+
+Downvote
+
+
+Reply
+
+
+u/yoman960 avatar
+yoman960
+•
+6y ago
+ME + EECS '22
+The reason people tend to reccomend 61b as the class for interviews (at least internship) is because of literally that: you'll see a lot of questions about objects, classes, class inheritance, static typing, method overriding and overloading, runtime vs compile time, what is a file (from a technical standpoint), and then common data structures: tries, stacks, queues, linked lists, graphs, etc.
+
+
+If you already knew all that, then you might not have learned much, but most students don't going in.
+
+
+You will see 61C level questions if you're interviewing for hardware / systems positions, but for the general full stack developer position generally not so many, and pretty much never any questions specific enough to come from an upper division like 168, etc. unless you're interviewing for a specific role that deals in that subject.

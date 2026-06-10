@@ -1,0 +1,364 @@
+﻿https://www.reddit.com/r/berkeley/comments/1gcn9hp/computer_science_is_hard/
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+2y ago
+Haunting-Pass7131
+Freshman
+
+
+Computer science is hard
+CS/EECS
+I am currently studying cs61a, and I am just curious: how do other people come up with such simple and beautiful solutions but I can't? What should I do to improve my problem-solving skills in computer science?
+
+
+
+
+WestCommunication895
+•
+2y ago
+practice, to built up intuition. prior to college I had legit never written a single line of code but the summer before 61a I just grinded Python problems on edabit.com (Lowkey goated website for beginner/intermediate programmers - only good for 61a though, which is almost strictly just problem solving). someone else also suggested using chatgpt for generating similar problems and I think that’s a good idea. make sure to fully give it ur best effort before giving in and asking for the solution (otherwise this really won’t help you at all bc getting the solution to one specific problem won’t help at all; knowing how to approach problems and building the intuition for them is what will actually help you in the long run). also just take it easy, I was super obsessed with and stressed about learning as much as I could to prepare for the class but the knowledge will come to you naturally in due time, given you want to and somewhat actively try to learn. Goodluck :)
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+sutcher
+•
+2y ago
+Practice. Don’t be down on yourself. Just takes time
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+jbrandon
+•
+2y ago
+I failed 61a the first time.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/Ea-Cycle8795 avatar
+Ea-Cycle8795
+•
+2y ago
+Is it bad ? I’m gonna fail it to unfortunately 🥲but what did you do to pass it
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+jbrandon
+•
+2y ago
+Took it a second time!
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/LandOnlyFish avatar
+LandOnlyFish
+•
+2y ago
+how do other people come up with such simple and beautiful solutions but I can't?
+
+
+4 years of CS during high school does the job. 61A was made for folks with tons of prior experience that’s how you get the most out of that class.
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+u/SirensToGo avatar
+SirensToGo
+•
+2y ago
+why do you buy groceries at a bowling alley
+61A was the hardest CS class I ever took lol, it's all easier from there
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+WinChurchill
+•
+2y ago
+Lots of people have prior experience, and the class does not suit completely new beginners well. For me it definitely felt like a hard and extremely quick review of python and tbf, respect to anyone who had limited prior experience and still managed to get above B. The questions are there for the purposes of trying to get ya and if you asked some experienced programmers who haven't done these intensive basics in a while, they won't be able to do some of the questions/will make lots of mistakes.
+
+
+Personal suggestions is, make sure that you are absolutely solid with the syntax before moving on to grind one specific type of problem at a time (i.e. do multiple wwpd, then recursion, etc). You'll be spending more time than those who had prior experience but after 61b, likely y'all be on even ground.
+
+
+
+
+Upvote
+24
+
+
+Downvote
+
+
+Reply
+
+
+u/lolycc1911 avatar
+lolycc1911
+•
+2y ago
+A great set of practice problems is Advent of Code, there’s a subreddit for it as well. Problems each year start very easy and get progressively harder (with some random difficulty spikes).
+
+
+If you’re still learning it’s probably going to be too difficult past the first few days problems but it’s worth trying.
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+u/LandOnlyFish avatar
+LandOnlyFish
+•
+2y ago
+•
+Edited 2y ago
+This and CS during high school set me up very well for 61A
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+gwwin6
+•
+2y ago
+You probably know enough to start doing some LeetCode problems. Almost certainly the easy ones at least. Go into a problem and first try to make anything work. Then ask “can I do it with recursion?” “Can I do it iteratively?” “Can I do it tail recursively?” “Can I do it in one line?” “Can I make it simpler?” “Can I make it faster?” “Can I do it without changing the data types?” You’ll start to see patterns and get better at recognizing them quickly. You can make it fun by getting together with your friends and working on this together. The best way to get better at CS, math, etc. is to do lots of problems.
+
+
+
+
+Upvote
+10
+
+
+Downvote
+
+
+Reply
+
+
+zamfi
+•
+2y ago
+Practice. Ask ChatGPT for questions that are similar, but not identical, to the ones you see.
+
+
+This isn't part of the standard 61A curriculum, but programming involves learning a whole host of "recipes" to pull together to solve various problems. I've been teaching programming for 20 years. The only way to get there is experience through practice with problem solving of the programming or generally math-y variety...
+
+
+
+
+
+
+Upvote
+35
+
+
+Downvote
+
+
+Reply
+
+
+u/_mball_ avatar
+_mball_
+•
+2y ago
+CS '15, EECS '16 | Lecturer
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I mostly agree with this, but have a somewhat different take on learning'recipies'. Yes, there are quite a few standard patterns, but you don't need to /memorize/ them.
+
+
+When it comes to projects/homework, you're not expected to come up with the most elegant solution in the first pass, not necessarily even at all for every problem... Focus on correctness first, then you re-write code for clarity / conciseness. Even nearly professional programmers don't get the best solution to a take on their first try.
+
+
+The thing is, once you have a working solution, you can start to improve it piece-by-piece.
+
+
+Finally, on ChatGPT -- I think it's OK, but it definitely does make mistakes. Once I went back-and-forth for 30 minutes trying to optimize a problem before I realized the solution was wrong (but close...) the entire time. LOL. Always run the code.
+
+
+Python is an interpreted language, practice using the interpreter to try out and test smaller problems.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+Vegetable-Chard-6927
+•
+2y ago
+question. how reliable are chatgpt’s answer to hypo questions given chatgpt can hallucinate?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+If you have gpt premium and can find the right gpt they can be super reliable. Specificity is important.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+Vegetable-Chard-6927
+•
+2y ago
+but how do you know the answer is reliable if you yourself are learning the material and barely able to verify the answer. basically you’re saying, just trust chatgpt. who cares if it hallucinates.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+zamfi
+•
+2y ago
+Trust it...for what? If it's generating code for you, run the code and see if it works? If it's generating questions for you, are you worried about them being unsolvable? Or what exactly?
+
+
+I don't think ChatGPT's solutions are particularly useful -- the thing learners need to practice is solving problems and writing code. If you're just getting an answer from ChatGPT, sure, there's a risk it's wrong—but also you're probably not getting much out of the experience. There's no shortage of vetted, solved CS1-style problems out there to look at solutions for.

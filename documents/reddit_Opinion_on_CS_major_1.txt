@@ -1,0 +1,389 @@
+﻿https://www.reddit.com/r/berkeley/comments/1btbpq5/my_opinion_on_cs_classes/ 
+
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+2y ago
+ella1754
+my opinion on cs classes
+CS/EECS
+Here is my review of Berkeley EECS classes as a graduating senior from a throwaway account because I can. I will discuss perspectives that have been discussed only behind closed doors among the students.
+61A/B/C : practical classes that made you fall in love with CS. Assignments that actually make you feel like you learn and accomplish something.
+Cheating level in the class: 3/10. I do think that a lot of people cheat in this class, but I also believe that with the 61A/B/C series, most people are trying to "cheat to learn." (That is why my rate is so low)
+TA and support review: 8/10 I do not think there is enough support for people who are falling behind, and the support they have right now is useless (if you do not know, there are specific discussions for people who got less than 20% on the exam). My negative review for those classes is because they teach you 1+1 = 2, and the exam level is like giving the differential equations to 5 graders. Exams are not ESL-friendly. I am surprised that no one EVER talks about it. While those classes are very popular among international students who pass English-level requirements, long and confusing 20-line problems should not be allowed. Do not get me wrong, write the most confusing/complicated stuff of your life, but make it in more straightforward language. It's an introduction level class where people should feel comfortable and not stressed out because of the English language.
+EECS16A/16B : I am not into the EE part of the major, but the labs made me think about it!
+Cheating level in the class: 11/10. With a class of 800 people, you could see 30 people max office hours, and it will be the same people. If the rest of the class, which is 770 people, could do homework by themselves and get 100 100, the average grade for the class would be A+.
+TA and support review: 10/10. This was one of the classes where the TAs could explain every problem and teach you something.
+CS70: Discrete math and Stat are generally exciting subjects to me, but at Berkeley, man, why? Why does this class need to be so badly taught that understandable concepts are making 0 sense? Why are the lectures, hws and exams teaching/asking different concepts? The stat part is taught better than whatever is the first part of the class.
+Cheating level in the class: 10/10. General advice for anyone is to pick a non-hw option and spend your time studying for the exams. Even if you look at the solutions, there is a minimal chance you may understand something unless you have someone who can explain it to you.
+TA and support review: I am unsure if the best TA knows what is happening in this class. If you go during office hours, TAs usually explain problems based on solutions. Lol. I could honestly just look it up myself if that's the help that I would need. Idk if the department is aware of it, but in the OH, they do a "homework problems walkthrough" where they give you 80% of the answers for the problems. If you stay in the office hours long enough, you can have all the solutions provided by the staff.
+CS160: Hear me out: "If this class had enough seats, it would be one of the most popular classes at school." Do you know why? Because you actually feel like you are learning something that may benefit your career in the future. People want to learn material that could help them get a job, that can show them the different sides of CS, and that makes them fall in love with coding.
+Cheating level in the class: 3/10 I think that there is no need to cheat. The class might be intense for someone and require a lot of learning, but I think the general atmosphere in the class is "I am here to learn."
+TA and support review: Poor due to the budget, but also accessible if you need it. YouTube will be your best friend.
+CS161: One of the best exploration CS classes. Show you a different side of CS you may never experience alone.
+Cheating level in the class: 4/10 may only help a little due to the nature of the projects.
+TA and support review: the most useless stuff ever. They can not look at your code; they can not help you to design, and they can only help you if you have no idea where to start (you can only ask specific questions like how I can ask something that I am confused about). Generally, TAs are good and know the subject, but I do not understand the point of the support if the only support you can get is "general conceptual advice." They expect people to design the program but not teach how to do it.
+CS162 is a perfect class for anyone wanting to be SWE, but it is extremely time-consuming. The team is IMPORTANT. Please DO NOT take it with random people, or you may suffer twice as much.
+Cheating level in the class: 1/10. It's hard to cheat since you have to be on the team, which is honestly why this class is so hard.
+TA and support review: TAs are great. In comparison to 161, they help you with design and code. Projects may have more directions. I have nothing to comment on outside of countless sleepless nights and the energy drink addiction that I developed.
+CS169A/L: This class has much potential, if not so poorly taught and disorganized. Probably the worst class in the entire CS series.
+Cheating level in the class: 10/10. I suggest people cheat and take this class to fulfill the 5-upper div requirement. Even the non-CS concepts that they teach in the class are outdated. Maybe it was a good class in 2014, but not today. It could be easily replaced with 40 YouTube tutorials on modern website development, which would be more useful in real life.
+TA and support review: 0/10 When I took this class, only 1 TA out of 5 could actually help.
+CS170 is overkill for SWE. Taking CS169 and devoting time to studying leetcode and algorithms on the side will make you happier. I think the general temperature in the class can be described as "What is going on?"
+Cheating level in the class: 10/10. I'm sorry to say, but when the homework does not make sense, it is the only thing people can do.
+TA and support review: Similar to CS70.
+CS186: I expected to learn about the system design rather than how to create the database from scratch.
+Cheating level in the class: 8/10. I only give such a high rating because many people do not find projects interesting enough to spend time on.
+TA and support review: There should be a time limit for help, like 10 minutes or something, because most of the OH only have one TA precent. Class have the best exams I have ever taken at Berkeley since they test your knowledge of the class material. The class only needs a little support and could be taught remotely.
+CS188: The school offers this class only because they have to have classes. It may not be helpful for future job opportunities, but it is fun and interesting. The projects may make you feel like you are learning, and the math part is not bad.
+cheating level in the class: 11/10 - Similar to 16A/B series - for math part. 3/10 for the coding part.
+TA and support review: They are pretty great and know their stuff. There is not too much to say because I think the class is very well-balanced.
+CS189: I have mixed feelings about what I learn and how helpful it could be. Is this what ML is?
+cheating level in the class: 10/10. There is no way the average homework grade is 98/100 because everyone is a genius in this school. I feel like the coding part with no direction forces people to cheat. If you want people not to cheat, explain what they must do.
+TA and support review: TAs know their stuff and would help you with any problems. The coding part of homework may have a starter code and some directions.
+My 5 cents about discussions: I would like discussion sections to have less silence time when people are forced to do the job on their own and more walkthrough style. I would like to see more logic in approaching problems.
+Overall cheating: people do not cheat because they are desperate or they do not want to learn, people do it simply because they do not feel like the time may worth it. Also I do believe that people cheat due to the luck of the direction and understanding of the material. Cheating is a big problem and I think its a fault of whoever is designing the class in the first place.
+Overall overview: I do not feel like the school has taught me a lot in terms of what I need to do at the workplace and contribute to my job search. Yes, some of the projects that i did might be impressive, but do they have a lot in common with the requirements for entry-level SWE jobs? No. That's the sad part. Almost everyone I know is studying on the side because they do not feel like they have any skills that are required for the job search.
+
+
+
+
+Pangpang_sonic
+•
+2y ago
+"Cheating level in the class: 10/10. General advice for anyone is to pick a non-hw option and spend your time studying for the exams. Even if you look at the solutions, there is a minimal chance you may understand something unless you have someone who can explain it to you."
+
+
+You mentioned that "Even if you the solutions,there is....". Did you mention about exams or homeworks?
+
+
+Thank you for your wonderful review btw Comment Image.
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/ella1754 avatar
+ella1754
+OP
+•
+2y ago
+homeworks, its not a secret that for $25 you can download it from course hero or ask your friends who took this class before (for free)
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+Usernamillenial
+•
+2y ago
+EECS NUMBER 1 6% F#@$ YOU
+With ur cheating ratings, u r definitely underestimating the average Berkeley cs major 😂 esp for a class like 189 where an average joe wouldn’t take it unless capable
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/ella1754 avatar
+ella1754
+OP
+•
+2y ago
+I know plenty of average Joes who is taking 189 because of the ML/AI hype
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+bruhh_2
+•
+2y ago
+also a lot of cheating in these types of classes amounts to just googling stuff or using chatgpt. which is what you do at a full time swe position anyways.
+
+
+
+
+Upvote
+10
+
+
+Downvote
+
+
+Reply
+
+
+u/darknecross avatar
+darknecross
+•
+2y ago
+EECS '13
+Overall cheating: people do not cheat because they are desperate or they do not want to learn, people do it simply because they do not feel like the time may worth it. Also I do believe that people cheat due to the luck of the direction and understanding of the material. Cheating is a big problem and I think its a fault of whoever is designing the class in the first place.
+
+
+Overall overview: I do not feel like the school has taught me a lot in terms of what I need to do at the workplace and contribute to my job search. Yes, some of the projects that i did might be impressive, but do they have a lot in common with the requirements for entry-level SWE jobs? No. That's the sad part. Almost everyone I know is studying on the side because they do not feel like they have any skills that are required for the job search.
+
+
+IMO that’s the wrong lesson to take out of it. While I agree the direct technical knowledge learned from Cal isn’t going to carry you, the school makes people really good at self-study and ramping on new technical problems. Ambiguity is a big thing in SWE, so the students who just cheated through aren’t going to have a great time in the industry.
+
+
+Being able to pivot and get up to speed on a new technology like that is huge.
+
+
+When I was graduating
+
+
+the computer vision course was niche
+
+
+CNNs weren’t mainstream
+
+
+CS188 PacMan was the only popular ML course
+
+
+TensorFlow didn’t exist
+
+
+There was no concept of ML accelerator hardware
+
+
+No LLM related anything. We had Markov Chains (see r/SubredditSimulator)
+
+
+This sounds like old man cloud stuff, but it’s covering 2014-2020. Each of these things had transformative impact on engineering (and a lot more).
+
+
+Look at the timeline for smartphones driving the industry for a decade.
+
+
+Shit changes fast, and if you’re able to react and study up on the changes you’ll be a very valuable engineering leader in your career.
+
+
+
+
+
+
+Upvote
+9
+
+
+Downvote
+
+
+Reply
+
+
+u/ella1754 avatar
+ella1754
+OP
+•
+2y ago
+Can't agree more. but when I am supposed to self study if i stuck with the homework 24/7 unless I am taking an easy semester
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/choose_a_username523 avatar
+choose_a_username523
+•
+2y ago
+Stopped reading when you said 186 had the best exams you have ever taken at Berkeley
+
+
+
+
+
+
+Upvote
+7
+
+
+Downvote
+
+
+Reply
+
+
+u/ella1754 avatar
+ella1754
+OP
+•
+2y ago
+I think those are fair in comparison to most of the classes, but I am glad I kept your attention for that long
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+Stupid__SexyFlanders
+•
+2y ago
+CS '09, MBA '17
+CS170 is overkill for SWE. Taking CS169 and devoting time to studying leetcode and algorithms on the side will make you happier. I think the general temperature in the class can be described as "What is going on?"
+
+
+This. I've never had any algorithms question in an interview anywhere close to the level of difficulty of a CS70 problem set, to say nothing of CS170. I suppose if I worked at someplace like JPL or on some big-brain shit and had to solve NP-complete problems all day, maybe it'd be useful, but I don't, so the practical usage of that class has been next to nil.
+
+
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Comment deleted by user
+
+
+
+
+
+
+Upvote
+Downvote
+
+
+Reply
+
+
+Share
+
+
+SheepherderTight8800
+•
+2y ago
+Stupid__SexyFlanders
+•
+2y ago
+CS '09, MBA '17
+Yeah those are nothing compared to the CS70 and 170 problem sets. Easy peasy
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+I can’t agree more with the ESL thing. I feel like it applies to basically every class. They want to make these background stories to problems that are so confusing.
+
+
+
+
+Upvote
+11
+
+
+Downvote
+
+
+Reply
+
+
+Educational_Mud_9062
+•
+2y ago
+•
+Edited 2y ago
+Resding this I can't help but feel like what they're REALLY teaching you, which arguably is more important for succeeding as a SWE in industry than technical knowledge right out of the gate, is how to operate under tight deadlines with arbitrary or unreasonable seeming expectations and restrictions. They've taught you to put your nose down and grind inside an opaque bureaucracy. I'm sure that's not an enjoyable process but in a messed up kind of way it makes sense.
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+imyourneighbor888
+•
+2y ago
+Shut up code monkey. You don’t have opinions that matter, and pretty soon you won’t have any skills AI can’t do.

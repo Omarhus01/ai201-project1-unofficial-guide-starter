@@ -1,0 +1,524 @@
+﻿https://www.reddit.com/r/berkeley/comments/1dsep0y/cs_majors_how_hard_is_it_to_get_accepted_as_a_cs/
+
+
+
+
+Go to berkeley
+r/berkeley
+•
+2y ago
+lalalalaplays
+
+
+CS majors: how hard is it to get accepted as a CS major
+CS/EECS
+hi! i’m a current high school student who’s looking to major in cs in the future and berkeley has always been my dream school but i know it is crazy competitive. i know java python and C# with some knowledge about other coding languages, also took AP courses related to computer related things. i’d say i have other decent ECs but not sure if i am doing enough. i js want to estimate my chances of getting in and this is something ive been stressing about since 8th grade.
+
+
+
+
+XShadowXVX
+•
+2y ago
+pm me, i got in this year
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+UpstairsOk8157
+•
+2y ago
+could I pm you as well? am in a similar situation
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+hard. 1.9% acceptance rate this year
+
+
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+XShadowXVX
+•
+2y ago
+and we were 2 out of the 148!
+
+
+
+
+
+
+Upvote
+3
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+OH YEA!!! 🎉🎉
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+u/unsolicited-insight avatar
+unsolicited-insight
+•
+2y ago
+Extremely hard. At this point it is like trying to get into an Ivy League.
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+u/MessageAnnual4430 avatar
+MessageAnnual4430
+•
+2y ago
+with schools as selective as berkeley (better than ivies for cs, certainly top 5 intl) you can do everything right and still be rejected. it's really a coin toss. do your best and go to wherever you can.
+
+
+
+
+Upvote
+2
+
+
+Downvote
+
+
+Reply
+
+
+u/ClockAutomatic3367 avatar
+ClockAutomatic3367
+•
+2y ago
+About 8. Maybe even 9.
+
+
+
+
+Upvote
+8
+
+
+Downvote
+
+
+Reply
+
+
+blueballer37
+•
+2y ago
+apply for EECS instead these past few years the acceptance rate for CS has been ~2% while EECS has been higher. the cs content is the same too and you dont even have to do any EE.
+
+
+usually admits do more than just know languages, they have solid achievements and projects and strong academics, and in state helps a lot too
+
+
+
+
+
+
+Upvote
+31
+
+
+Downvote
+
+
+Reply
+
+
+u/Successful_Edge4528 avatar
+Successful_Edge4528
+•
+2y ago
+Isn't EECS way more prestigious than L&S? Wtf
+
+
+
+
+
+
+Upvote
+-9
+
+
+Downvote
+
+
+Reply
+
+
+blueballer37
+•
+2y ago
+what makes many think that is before the direct admission model, anyone in L&S (~10-15% acceptance rate) could get CS as long as they met the 3.3 gpa, so there were a lot more CS majors. eecs majors were direct admission, so generally you had people confident about admission and it was 4-5% acceptance rate.
+
+
+but things have changed with direct admit. they’ve drastically reduced the admitted CS, and this year it was only 1.9%
+
+
+
+
+Upvote
+5
+
+
+Downvote
+
+
+Reply
+
+
+u/dr150 avatar
+dr150
+•
+2y ago
+Understand ONE thing. It doesn't matter what school you go to for a CS degree. Just get the degree anywhere. Your salary will be high regardless and higher than anyone that's not doing STEM at ANY school. Silicon Valley is littered with people top to bottom from schools you didn't hear of at the highest positions. It's the one degree where you can feel confident that learning your subject well can still land you at Google if you pass their interview tests.
+
+
+
+
+
+
+Upvote
+8
+
+
+Downvote
+
+
+Reply
+
+
+u/MessageAnnual4430 avatar
+MessageAnnual4430
+•
+2y ago
+that's a reach, in this market it absolutely does matter to get your foot in the door. it is unbelievably hard to get an internship or job offer from an average university, especially compared to the location, connections, and prestige at berkeley.
+
+
+yeah you can study for an interview but does it matter if you can't get the interview in the first place?
+
+
+i can understand saying it's not critical for cs, which is true, but it does matter.
+
+
+
+
+
+
+Upvote
+18
+
+
+Downvote
+
+
+Reply
+
+
+u/dr150 avatar
+dr150
+•
+2y ago
+•
+Edited 2y ago
+Internships at the "pie in the sky" biggies are few and far between and unrealistic (just like prestige admissions). The way everybody does it is land your first job (i.e. HP or whatever), and then move to your next job after 1 year puddle jumping until you hit the good jobs/companies. By your 2nd or 3rd job, if you're competent, you'll be able to land a Google/FB interview then the sky is the limit.
+
+
+Prestige in this field is for people looking to do a PhD (to teach)....Then it matters. But with a PhD you're overqualified for a "task at handx L5 software engineering role at Google. You won't earn more apples to apples. Plus you'll still have to pass the technical interviews (the great equalizer), and those from no-name schools will surprisingy outcompete you. I've seen it time and time and time again.
+
+
+.....P.S. As a hyper intelligent Berkeley CS grad, your work ethic and smarts will get you on the train, but right next to you is a larger train of no name schools grads who'll do just as well (or better) than you career-wise and they didn't have to stress about impossible admissions at prestige schools.
+
+
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+u/MessageAnnual4430 avatar
+MessageAnnual4430
+•
+2y ago
+•
+Edited 2y ago
+that's a bit hard if you submit 1000+ applications and no one wants to hire a new grad from randomsville state university
+
+
+edit: what i'm saying is you can't even settle for a low paying job if you can't get an interview to any job
+
+
+
+
+Upvote
+-2
+
+
+Downvote
+
+
+Reply
+
+
+intoxyc8
+•
+2y ago
+IEOR/EECS
+if you've really been stressing about it since 8th grade you'll probably be fine but seriously bro enjoy your youth
+
+
+
+
+Upvote
+17
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Freshman admit rate in 2024 was 1.9% for CS so extremely competitive. You can do everything right, but with such a low admit rate it is impossible to predict whom will be admitted.
+
+
+
+
+
+
+Upvote
+44
+
+
+Downvote
+
+
+Reply
+
+
+lalalalaplays
+OP
+Cake icon
+•
+2y ago
+i’ve seen stats similar to mine but i’ve also seen some insane stats that got rejected so it gets me really worried and confused bc ITS LIKE I HAVE NO IDEA WHAT THEY WANT
+
+
+
+
+
+
+Upvote
+6
+
+
+Downvote
+
+
+Reply
+
+
+[deleted]
+•
+2y ago
+Comment deleted by user
+
+
+
+
+
+
+Upvote
+Downvote
+
+
+Reply
+
+
+Share
+[deleted]
+•
+2y ago
+Common Berkeley student hs experience
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+u/NeverSlxxpy avatar
+NeverSlxxpy
+•
+2y ago
+bro just google the acceptance rates and there's your answer
+
+
+
+
+
+
+Upvote
+27
+
+
+Downvote
+
+
+Reply
+
+
+CalSimpLord
+•
+2y ago
+Class of ‘24
+Are the major wise acceptance rates even public?
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/NeverSlxxpy avatar
+NeverSlxxpy
+•
+2y ago
+Only for like the 5 most competitive majors.
+
+
+
+
+
+
+Upvote
+4
+
+
+Downvote
+
+
+Reply
+
+
+CalSimpLord
+•
+2y ago
+Class of ‘24
+I have not found a single official source for either EECS nor L&S CS (other than people posting CalAnswers data on Reddit and a screenshot of a now privated video by John DeNero).
+
+
+
+
+
+
+Upvote
+1
+
+
+Downvote
+
+
+Reply
+
+
+u/NeverSlxxpy avatar
+NeverSlxxpy
+•
+2y ago
+Ah. I was referring to the CalAnswers post.
