@@ -18,7 +18,7 @@ def handle_query(question):
     if result["sources"]:
         sources = "\n".join(f"• {s}" for s in result["sources"])
     else:
-        sources = "(no sources — outside the corpus)"
+        sources = "(no sources, outside the corpus)"
     return result["answer"], sources
 
 

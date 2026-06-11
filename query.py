@@ -73,7 +73,7 @@ def main():
         for s in result["sources"]:
             print(f"  • {s}")
     else:
-        print("  (none — outside the corpus)")
+        print("  (none, outside the corpus)")
 
 
 if __name__ == "__main__":
