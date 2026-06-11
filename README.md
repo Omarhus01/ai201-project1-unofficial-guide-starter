@@ -2,6 +2,10 @@
 
 A retrieval-augmented question answering system over real, unofficial UC Berkeley CS student opinion from Reddit and RateMyProfessors. You ask a plain-language question and get an answer grounded only in the collected documents, with the source documents named. If the corpus does not cover the question, the system says so instead of guessing.
 
+## Demo Video
+
+A 3 to 5 minute walkthrough of the system: https://www.loom.com/share/0bd9705658f242d3ac5ee1901f5a6e48
+
 ## Running the System
 
 1. Create and activate a virtual environment, then install dependencies:
