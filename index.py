@@ -82,7 +82,16 @@ def build_index() -> int:
     #    - documents:  the chunk text (so retrieval returns the text directly)
     #    - metadatas:  source filename + position, for attribution later
     ids = [f"{c['source']}_{c['chunk_index']}" for c in chunks]
-    metadatas = [{"source": c["source"], "chunk_index": c["chunk_index"]} for c in chunks]
+    # doc_type is derived from the filename prefix and stored as a scalar so the
+    # metadata-filtering stretch can restrict retrieval to Reddit or RMP chunks.
+    metadatas = [
+        {
+            "source": c["source"],
+            "chunk_index": c["chunk_index"],
+            "doc_type": "rmp" if c["source"].startswith("rmp_") else "reddit",
+        }
+        for c in chunks
+    ]
 
     collection.add(
         ids=ids,

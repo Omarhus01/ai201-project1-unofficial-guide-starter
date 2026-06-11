@@ -281,6 +281,67 @@ All five test questions from `planning.md` were run through the system end to en
 
 ---
 
+## Hybrid Search Comparison (Stretch)
+
+To address the Q4 failure above, I added hybrid search (`hybrid.py`): a BM25 keyword index (via `rank-bm25`) over the same 851 chunks, combined with the existing semantic search using Reciprocal Rank Fusion. RRF merges the two rankings by rank position, so cosine distances and BM25 scores never have to be normalized against each other. The semantic-only `retrieve()` is left untouched, so both can be compared on the same questions. Run it with `python hybrid.py "your question"`.
+
+**Effect on Q4 ("What is the best professor for CS61A?"), top 5 retrieved:**
+
+| Rank | Semantic-only | Hybrid |
+|------|---------------|--------|
+| 1 | rmp_denero #186 (DeNero, CS61A) | rmp_denero #203 (DeNero, CS61A) [both methods] |
+| 2 | rmp_garcia #89 (Garcia, CS10) | rmp_denero #186 (DeNero, CS61A) |
+| 3 | rmp_denero #187 (DeNero, CS61A) | rmp_denero #180 (DeNero, CS61A) |
+| 4 | rmp_garcia #48 (Garcia, CS10) | rmp_garcia #89 (Garcia, CS10, mentions 61A) |
+| 5 | rmp_garcia #67 (Garcia, CS61C) | rmp_denero #63 (DeNero, CS61A) |
+| | 2 of 5 on-course | 4 of 5 on-course |
+
+Hybrid fixes the drift. BM25 gives real weight to the literal token "CS61A", so strong DeNero CS61A reviews that pure semantic missed ("the best teacher I have ever had", "one of the best professors in uc berkeley") rise into the top results, and the off-course Garcia CS61C review drops out entirely. The new top result was found by both methods, which is the strongest signal.
+
+**Effect on the other questions:** no meaningful regression. The answer-bearing chunks for Q1, Q2, and Q3 are preserved (for example the exact "does DeNero teach the lectures" thread stays at rank 1 for Q3, and the three spring-versus-fall chunks stay on top for Q1). BM25 does occasionally introduce one loosely related chunk at a low rank (an EECS thread at rank 5 on Q2, a Rao review on Q3), but it never displaces the top or answer-bearing results. The trade is clearly worth it: a large gain on the failure case for a small amount of low-rank noise elsewhere.
+
+**Limitation:** hybrid does not fully fix the misleading-citation issue. On Q4 a Garcia CS10 review (#89) still appears at rank 4, because it literally mentions "CS61a", so `rmp_garcia.txt` can still show up in the source list. The retrieval is much more on-course than before, but narrowing attribution to only the chunks the answer used would still help.
+
+---
+
+## Metadata Filtering (Stretch)
+
+Users can narrow retrieval before the semantic search runs, so an answer can be restricted to part of the corpus. Two filters are exposed in the Gradio UI: a source-type dropdown (All / Reddit / RateMyProfessors) and a course text box (for example CS61B). They are threaded through `ask()` into `retrieve()`.
+
+**How it works:** At indexing time each chunk stores a `doc_type` field ("reddit" or "rmp"), derived from the filename prefix. `retrieve()` then takes two optional filters: `doc_type` is applied as a ChromaDB metadata `where` clause, and `course` is applied as a `where_document` `$contains` clause that keeps only chunks whose text contains the course token. ChromaDB applies both as it runs the nearest-neighbor search.
+
+**Verification:**
+- `doc_type="rmp"` returns only `rmp_` sources; `doc_type="reddit"` returns only `reddit_` sources.
+- `course="CS61B"` returns only chunks whose text contains CS61B (all from the Hilfinger CS61B page).
+- The same Q2 question answered with the source filter set to RateMyProfessors is grounded only in `rmp_hilfinger.txt`, and with the filter set to Reddit is grounded only in the Reddit Hilfinger threads. The filter visibly changes which documents the answer draws from.
+
+**Limitations (honest):**
+- Rating and date filtering are not implemented, because a ~150-token chunk often packs several RMP reviews with different ratings and dates, so a single chunk has no one rating or date to filter on. This follows directly from the chunking choice.
+- Filtering interacts with the distance guard. A narrow filter plus a vague query can leave the closest remaining chunk past the 0.6 cosine threshold, which makes the system refuse even though relevant filtered content exists. A more specific query retrieves it. The guard is a single global threshold and is not filter-aware.
+- The `course` filter is a case-sensitive substring match, so it expects the course code in the same form it appears in the text (for example CS61B).
+
+---
+
+## Chunking Strategy Comparison (Stretch)
+
+To check that the recursive, structure-aware chunking is actually worth it, I compared it against a naive fixed-size splitter (`split_text_fixed` in `chunk.py`, run by `compare_chunking.py`). The fixed splitter slices the tokenized document into uniform 150-token windows with 15-token overlap, ignoring sentence, review, and comment boundaries. Size and overlap are identical to the recursive splitter, so the only variable is whether boundaries are respected. The fixed chunks were embedded into their own ChromaDB collection and the same 5 questions were run through both.
+
+Recursive produced 851 chunks; fixed produced 707.
+
+| Q | Recursive (best distance) | Fixed-size (best distance) | Better |
+|---|----------------------------|-----------------------------|--------|
+| Q1 | three answer chunks, all on the right thread (0.427) | drifts to a Hilfinger thread at rank 3 (0.416) | Recursive |
+| Q2 | all five from the Hilfinger page (0.306) | all five from the Hilfinger page (0.328) | Tie, slight recursive |
+| Q3 | the exact answer thread at 0.176 | the same thread but diluted to 0.233 | Recursive |
+| Q4 | 2 of 5 DeNero chunks (0.319) | pulls in Shewchuk and Garcia, ~1 of 5 DeNero (0.335) | Recursive |
+| Q5 | irrelevant chunks, correct refusal path (0.441) | irrelevant chunks, correct (0.475) | Tie |
+
+**Result: recursive wins or ties on all five, clearest on Q3 and Q4.** The reason is that fixed windows cut reviews and comments mid-thought and merge fragments of different reviews, and different professors, into one chunk. That has two visible effects. On Q3 the distance to the exact answer thread rises from 0.176 to 0.233 on the very same source, because the fixed window dilutes the on-point passage with neighboring text. On Q4 the fixed splitter pulls in a Shewchuk review, a completely unrelated professor, because a window that blends praise fragments from several reviews matches the generic "best professor" query even more loosely than before.
+
+**Honest note:** the gap is real but not enormous. Q2 was nearly a tie, and the fixed splitter's raw best distance on Q1 was marginally lower than recursive's, even though its results were less on-topic. The comparison supports the Milestone 3 decision to chunk on structure, especially for the dense RMP review stacks, without overstating it.
+
+---
+
 ## Spec Reflection
 
 **One way the spec helped you during implementation:** The Chunking Strategy section did real work before any code existed. By writing down that the corpus has two shapes (sprawling Reddit threads where opinion is spread across comments, and compact RMP pages where each review is close to a standalone unit) and committing to about 150 tokens with 15 overlap, I had a concrete target when I implemented `ingest.py` and `chunk.py`. The two-shape note told me Reddit needed cleaning that splits on comment boundaries while RMP needed review-boundary structure, and the token numbers told me exactly what to verify (851 chunks, each holding one full opinion, none over the 256-token model limit). The five evaluation questions written in planning, including the Q4 trap and the Q5 Paxson gap, also gave me a fixed set of targets to test retrieval and generation against at every milestone instead of guessing whether things worked.

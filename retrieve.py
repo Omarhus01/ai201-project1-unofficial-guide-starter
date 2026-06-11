@@ -47,14 +47,27 @@ def _collection():
         ) from e
 
 
-def retrieve(query: str, k: int = 5) -> list[dict]:
+def retrieve(query: str, k: int = 5,
+             doc_type: str | None = None,
+             course: str | None = None) -> list[dict]:
     """Return the top-k chunks most semantically similar to `query`.
 
     Each result: {text, source, chunk_index, distance}, ordered nearest first.
-    `distance` is COSINE distance (range 0–2, lower = more similar)."""
+    `distance` is COSINE distance (range 0–2, lower = more similar).
+
+    Optional metadata filters (stretch: metadata filtering):
+      doc_type: "reddit" or "rmp" — restrict to that source type.
+      course:   a course token (e.g. "CS61B") — keep only chunks whose text
+                contains it, via a ChromaDB where_document $contains clause."""
     # Embed the query exactly as the documents were embedded in index.py:
     # same model, normalized to unit length.
     query_embedding = _model().encode([query], normalize_embeddings=True).tolist()
+
+    # Build optional filters. `where` filters on stored metadata; `where_document`
+    # filters on the chunk text. ChromaDB applies both during the search, so only
+    # matching chunks are ranked.
+    where = {"doc_type": doc_type} if doc_type else None
+    where_document = {"$contains": course} if course else None
 
     # query() finds the nearest stored vectors. We ask Chroma to return the
     # stored document text and metadata alongside the distances so we don't need
@@ -62,6 +75,8 @@ def retrieve(query: str, k: int = 5) -> list[dict]:
     res = _collection().query(
         query_embeddings=query_embedding,
         n_results=k,
+        where=where,
+        where_document=where_document,
         include=["documents", "metadatas", "distances"],
     )
 

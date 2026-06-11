@@ -162,3 +162,46 @@ I plan in Claude (chat) and hand implementation prompts to Claude Code in VS Cod
 - *Input I give:* the grounding requirement (answer from retrieved chunks only, refuse with "I don't have enough information" when the corpus does not cover it), the required output format (answer + source list), and the Gradio skeleton from the project instructions.
 - *Expected output:* `generate.py` that calls Groq llama-3.3-70b-versatile with a prompt that enforces grounding; `query.py` with an `ask()` function returning `{answer, sources}` where source attribution is appended programmatically, not left to the model; `app.py` Gradio UI importing `ask()`.
 - *How I verify:* before running, read the generated code to confirm the system prompt enforces grounding rather than suggesting it, and that citations are guaranteed by the pipeline. Then test 2 to 3 in-corpus queries (answer must trace to retrieved chunks, source cited) and the Q5 out-of-corpus query (must refuse, not answer from general knowledge).
+
+---
+
+## Stretch: Hybrid Search
+
+**Motivation:** The Q4 evaluation failure ("what is the best professor for CS61A?") was a retrieval-stage problem. Pure semantic search ranked glowing Garcia reviews for CS10 and CS61C nearly as close as the DeNero CS61A reviews, because the embedding rewards the generic shape of praise language and gives little weight to the exact token "CS61A". Keyword search does the opposite: it weights exact tokens heavily. Combining the two should pull the off-course reviews back down the ranking.
+
+**Approach:**
+- Keep the existing semantic retrieval (all-MiniLM-L6-v2 + ChromaDB, cosine) unchanged, so the baseline stays available for comparison.
+- Add a BM25 keyword index over the same 851 chunks using the `rank-bm25` library, with simple lowercase word tokenization.
+- For a query, take the ranked results from each method and combine them with Reciprocal Rank Fusion (RRF). RRF merges by rank position rather than raw score, which avoids having to normalize cosine distances against BM25 scores since the two live on completely different scales. The fused score for a chunk is the sum over both methods of 1 / (k + rank), with k = 60 (the standard default).
+- Return the top-k fused chunks in the same shape as `retrieve()` (text, source, chunk_index) so generation and the UI do not change.
+
+**Comparison plan:** Run all 5 evaluation questions through semantic-only and hybrid, and report what changes, with focus on whether Q4 stops surfacing the off-course Garcia chunks. This tests whether keyword weight on the course token fixes the documented lexical-overlap drift.
+
+---
+
+## Stretch: Metadata Filtering
+
+**Goal:** Let a user narrow retrieval before semantic ranking, so an answer can be restricted to a chosen slice of the corpus (for example only RateMyProfessors reviews, or only chunks that mention a specific course).
+
+**What is cleanly filterable in this corpus, and what is not:** Each chunk already stores `source` and `chunk_index`. I add one more scalar field, `doc_type` ("reddit" or "rmp"), derived from the filename prefix at indexing time. Source, source type, and course are well defined per chunk: the course is filterable because the chunk text contains the course code (for RMP, in the `[COURSE · DATE]` prefix). Per-chunk rating and date filtering are deliberately not implemented, because the ~150-token chunks often pack several RMP reviews together, each with its own rating and date, so a single chunk has no one rating or date to filter on. That is a direct consequence of the chunking choice in Milestone 3, and faking a single rating per chunk would be misleading.
+
+**Implementation:**
+- Enrich metadata in `index.py` with `doc_type`, then rebuild the index.
+- Add optional filter arguments to `retrieve()`: a `doc_type` filter (applied as a ChromaDB metadata `where` clause) and a `course` filter (applied as a `where_document` `$contains` clause, which keeps only chunks whose text contains the course token). ChromaDB applies these as it runs the nearest-neighbor search, so only matching chunks are ranked.
+- Thread the same optional filters through `ask()` and expose them in the Gradio UI as a source-type dropdown (All / Reddit / RateMyProfessors) and a course text box.
+
+**Verify:** Query with `doc_type="rmp"` and confirm every result is from an `rmp_` file; query with `course="CS61B"` and confirm every result mentions CS61B.
+
+---
+
+## Stretch: Chunking Strategy Comparison
+
+**Goal:** Test whether the recursive, structure-aware chunking actually beats a naive fixed-size split, on the same 5 evaluation questions, instead of assuming it does.
+
+**The two approaches, compared at equal size:**
+- **A, recursive structure-aware (current baseline):** split on paragraph and comment boundaries first, then sentences, then words; about 150 tokens with 15 overlap. A single review or comment tends to stay intact.
+- **B, fixed-size token windows:** slice the tokenized document into fixed 150-token windows with 15-token overlap, ignoring sentence, review, and comment boundaries.
+
+Holding chunk size and overlap equal between the two means the only variable is whether the splitter respects structure, which is exactly the thing being tested.
+
+**Method:** Build a second ChromaDB collection from approach B (same embedding model), run all 5 evaluation questions through both collections, and compare the top-5 results and distances. The expectation is that fixed windows cut reviews and comments mid-thought, for example splitting a professor's name in one chunk from the verdict in the next, so retrieval should be noisier, most visibly on the dense RMP review stacks. Report which performed better and why, and keep the result honest even if the gap is small.

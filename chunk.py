@@ -175,6 +175,44 @@ def chunk_corpus() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Fixed-size chunking (stretch: chunking strategy comparison)
+# ---------------------------------------------------------------------------
+
+def split_text_fixed(text: str, chunk_size: int = CHUNK_SIZE,
+                     overlap: int = CHUNK_OVERLAP) -> list[str]:
+    """Naive baseline: slice the tokenized document into fixed token windows,
+    ignoring sentence/review/comment boundaries. Same size and overlap as the
+    recursive splitter so the only difference is structure-awareness."""
+    tok = _tokenizer()
+    ids = tok.encode(text, add_special_tokens=False)
+    step = max(1, chunk_size - overlap)
+    chunks = []
+    for start in range(0, len(ids), step):
+        window = ids[start:start + chunk_size]
+        if not window:
+            continue
+        piece = tok.decode(window).strip()
+        if piece:
+            chunks.append(piece)
+        if start + chunk_size >= len(ids):
+            break
+    return chunks
+
+
+def chunk_corpus_fixed() -> list[dict]:
+    """Same as chunk_corpus() but using the fixed-size splitter."""
+    out = []
+    for doc in load_clean_docs():
+        for idx, chunk in enumerate(split_text_fixed(doc["clean_text"])):
+            out.append({
+                "text": chunk,
+                "source": doc["source_filename"],
+                "chunk_index": idx,
+            })
+    return out
+
+
+# ---------------------------------------------------------------------------
 # Driver
 # ---------------------------------------------------------------------------
 

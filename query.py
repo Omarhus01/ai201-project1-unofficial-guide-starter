@@ -34,12 +34,17 @@ DISTANCE_THRESHOLD = 0.6
 TOP_K = 5
 
 
-def ask(question: str) -> dict:
+def ask(question: str, doc_type: str | None = None, course: str | None = None) -> dict:
     """Return {"answer": str, "sources": list[str]}.
 
     sources is the deduplicated list of source filenames of the retrieved
-    chunks — empty whenever the system refuses (either layer)."""
-    chunks = retrieve(question, k=TOP_K)
+    chunks — empty whenever the system refuses (either layer).
+
+    Optional metadata filters (stretch: metadata filtering) are passed straight
+    through to retrieve(): doc_type ("reddit"/"rmp") and course (a course token).
+    If a filter matches nothing, retrieval returns no chunks and the distance
+    guard below refuses, which is the right behavior."""
+    chunks = retrieve(question, k=TOP_K, doc_type=doc_type, course=course)
 
     # Layer 1: distance guard. retrieve() returns results sorted nearest-first,
     # so chunks[0] is the closest. If it's beyond the threshold, refuse.
